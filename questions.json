@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Caffeine is an example of ?",
+    "options": {
+      "A": "A stimulant",
+      "B": "A sedative",
+      "C": "A volatile inhalant",
+      "D": "An opiod"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "The first case of HIV in Nigeria was reported in",
+    "options": {
+      "A": "1986",
+      "B": "1982",
+      "C": "1992",
+      "D": "1999"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "A male external genitalia consist of",
+    "options": {
+      "A": "The ovaries",
+      "B": "The testis",
+      "C": "The prostate gland",
+      "D": "Cyst"
+    },
+    "answer": "B"
+  }
+]
