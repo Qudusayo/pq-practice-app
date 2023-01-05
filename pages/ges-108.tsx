@@ -2,10 +2,12 @@ import Quiz from "../components/Quiz/Quiz";
 import { GetServerSideProps } from "next";
 import { questionsInterface } from "../types/questionArrayType";
 import { ResultChart } from "../components/Quiz/ResultChart/ResultChart";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 
 import styles from "./../styles/Home.module.scss";
 import axios from "axios";
+import localforage from "localforage";
+import Meme from "../components/Quiz/Meme/Meme";
 
 export default function Ges108({
   practiceQuestions,
@@ -17,6 +19,19 @@ export default function Ges108({
     rightChoices: 0,
   });
   const [completedQuiz, setCompletedQuiz] = useState(false);
+  const [isValidUser, setIsValidUser] = useState<boolean | null>(null);
+
+  useEffect(() => {
+    localforage
+      .getItem(process.env.NEXT_PUBLIC_ENTRY_KEY!)
+      .then(function (value) {
+        if (value === process.env.NEXT_PUBLIC_ENTRY_VALUE) {
+          setIsValidUser(true);
+        } else {
+          setIsValidUser(false);
+        }
+      });
+  }, []);
 
   const handleQuizSubmission = (
     wrongChoices: number,
@@ -37,7 +52,13 @@ export default function Ges108({
     });
   };
 
-  return (
+  if (isValidUser === null) {
+    return "Loading...";
+  }
+
+  return !isValidUser ? (
+    <Meme />
+  ) : (
     <>
       {!completedQuiz && (
         <Quiz
