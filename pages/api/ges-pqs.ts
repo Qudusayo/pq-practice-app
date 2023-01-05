@@ -1,8 +1,8 @@
 // Next.js API route support: https://nextjs.org/docs/api-routes/introduction
 import type { NextApiRequest, NextApiResponse } from "next";
 
-import ges107Qs from "./../../ges-107.json";
-import ges108Qs from "./../../ges-108.json";
+import ges107Qs from "../../apis/ges-107.json";
+import ges108Qs from "../../apis/ges-108.json";
 
 type Data = {
   question: string;

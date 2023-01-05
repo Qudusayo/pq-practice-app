@@ -1,4 +1,5 @@
 import Quiz from "../components/Quiz/Quiz";
+import { GetServerSideProps } from "next";
 import { questionsInterface } from "../types/questionArrayType";
 import { ResultChart } from "../components/Quiz/ResultChart/ResultChart";
 import { useState } from "react";
@@ -59,9 +60,13 @@ export default function Ges108({
   );
 }
 
-export async function getServerSideProps() {
+export const getServerSideProps: GetServerSideProps = async ({ req }) => {
+  let baseUrl = req.headers.referer;
+  let arr = baseUrl!.split("/");
+  baseUrl = `${arr[0]}//${arr[2]}`;
+
   let questionsResponse = await axios.get(
-    "http://localhost:3000/api/ges-pqs?questionType=GES-108"
+    baseUrl + "/api/ges-pqs?questionType=GES-108"
   );
 
   return {
@@ -69,4 +74,4 @@ export async function getServerSideProps() {
       practiceQuestions: questionsResponse.data,
     },
   };
-}
+};
