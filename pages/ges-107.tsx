@@ -61,7 +61,7 @@ export default function Ges107({
 
 export async function getServerSideProps() {
   let questionsResponse = await axios.get(
-    "http://localhost:3000/api/ges-pqs?questionType=GES-107"
+    process.env.BASE_URL + "/api/ges-pqs?questionType=GES-107"
   );
 
   return {

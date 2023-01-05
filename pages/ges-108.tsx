@@ -61,12 +61,8 @@ export default function Ges108({
 }
 
 export const getServerSideProps: GetServerSideProps = async ({ req }) => {
-  let baseUrl = req.headers.referer;
-  let arr = baseUrl!.split("/");
-  baseUrl = `${arr[0]}//${arr[2]}`;
-
   let questionsResponse = await axios.get(
-    baseUrl + "/api/ges-pqs?questionType=GES-108"
+    process.env.BASE_URL + "/api/ges-pqs?questionType=GES-108"
   );
 
   return {
