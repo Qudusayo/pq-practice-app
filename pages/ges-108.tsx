@@ -1,5 +1,4 @@
 import Quiz from "../components/Quiz/Quiz";
-import { GetServerSideProps } from "next";
 import { questionsInterface } from "../types/questionArrayType";
 import { ResultChart } from "../components/Quiz/ResultChart/ResultChart";
 import { useEffect, useState } from "react";
@@ -81,7 +80,7 @@ export default function Ges108({
   );
 }
 
-export const getServerSideProps: GetServerSideProps = async ({ req }) => {
+export async function getServerSideProps() {
   let questionsResponse = await axios.get(
     process.env.BASE_URL + "/api/ges-pqs?questionType=GES-108"
   );
