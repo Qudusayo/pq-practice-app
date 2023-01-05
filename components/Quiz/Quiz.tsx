@@ -100,7 +100,9 @@ export default function Quiz({
         <span>Back to Home</span>
       </div>
       <div>
-        <span className={styles.questionNumber}>Question - {entry + 1}</span>
+        <span className={styles.questionNumber}>
+          Question - {entry + 1} of {questions.length}
+        </span>
         <p>{questions[entry]?.question}</p>
       </div>
       <div className={styles.QuizOptions}>
@@ -153,6 +155,7 @@ export default function Quiz({
         type="button"
         onClick={entry + 1 === questions.length ? finishQuiz : showNextEntry}
         disabled={entry === userEntries.length}
+        className={entry + 1 === questions.length ? styles.finishButton : ""}
       >
         {entry + 1 === questions.length ? "Finish" : "Next"}
       </button>

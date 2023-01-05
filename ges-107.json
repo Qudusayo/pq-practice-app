@@ -798,5 +798,405 @@
       "D": "It is acquired by living in a crowded environment"
     },
     "answer": "A"
+  },
+  {
+    "question": "Some of the problems associated with excessive intake of energy include the following EXCEPT",
+    "options": {
+      "A": "Overweight and obesity",
+      "B": "Hypertension",
+      "C": "Diabetes mellitus",
+      "D": "Constipation"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "The following may be indication of advanced HIV infection or AIDS EXCEPT",
+    "options": {
+      "A": "Rapid weight loss",
+      "B": "Profuse night sweats",
+      "C": "Persistent or recurring cough",
+      "D": "Malaria"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "The following are the advantages of the condom",
+    "options": {
+      "A": "It prevents both sexually transmitted diseases and unwanted pregnancy",
+      "B": "Its use does not require the prescription of a health worker",
+      "C": "It can be purchased over-the-counter",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "The following are non-communicable diseases EXCEPT",
+    "options": {
+      "A": "Cancer",
+      "B": "Stroke",
+      "C": "HIV",
+      "D": "Kidney failure"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "In reproduction",
+    "options": {
+      "A": "Erection is the part of sympathetic nerve activity",
+      "B": "The penis is both an organ of copulation and urinary excretion",
+      "C": "There is more blood going out of the penis during erection",
+      "D": "None of the above"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "A major problem with alcohol use is that it",
+    "options": {
+      "A": "Impairs the judgement of the user",
+      "B": "is a major cause of road-traffic accidents",
+      "C": "Is a gateway to the use of other more serious substances",
+      "D": "Is readily available"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In HIV care",
+    "options": {
+      "A": "Anybody accidentaly exposed to body fluid should seek medical advice immediately",
+      "B": "All HIV positive persons need to take drugs for the rest of their lives",
+      "C": "Frequent exposure to body fluid is not a problem because there are drugs to be taken to prevent one from being infected",
+      "D": "None of the above"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "An HIV positive result means",
+    "options": {
+      "A": "The person has the virus",
+      "B": "The person has AIDS",
+      "C": "The person will soon die",
+      "D": "All of the above"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "The following is true about Post-exposure prophlaxis",
+    "options": {
+      "A": "Administered after a needle stick injury",
+      "B": "Administered after a rape",
+      "C": "Most effective when administered within 24 hours of exposure",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "________ is not common to the perception of youth worldwide irrespective of the culture?",
+    "options": {
+      "A": "Physical maturity",
+      "B": "Transition to adulthood",
+      "C": "Chronological age",
+      "D": "Economic independence"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "One of the following is the best statement about abstinence from sex",
+    "options": {
+      "A": "It has 100% guarantee to prevent sexually transmitted diseases and unwanted pregnancy",
+      "B": "It is the only method of controlling population growth in Nigeria",
+      "C": "It is a reliable option for young persons who want to prove their love to their partners",
+      "D": "None of the above"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "HIV-2 is found mostly in ____",
+    "options": {
+      "A": "Europe",
+      "B": "North America",
+      "C": "West Africa",
+      "D": "Asia"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "The following can be transmitted from mother to child",
+    "options": {
+      "A": "Humman Immunodeficiency virus",
+      "B": "Hepatitis B",
+      "C": "Syphilis",
+      "D": "All of the above"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "The following statements about rate of HIV infection in Nigeria are true EXCEPT",
+    "options": {
+      "A": "Higher among the youths",
+      "B": "varies from region to region",
+      "C": "Less than 1%",
+      "D": "Declining"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "The following are ways of preventing sexual trasnmission of HIV EXCEPT",
+    "options": {
+      "A": "Abstaining from sexual intercourse",
+      "B": "Proper and consistent use of condom",
+      "C": "Being faithful to your spouse",
+      "D": "Practicing anal sex"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "HIV cannot be transmitted through the following activities",
+    "options": {
+      "A": "Caring for HIV positive persons",
+      "B": "Common use of toilet",
+      "C": "Playing with someone who is HIV positive",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "Challenges faced by youths in the university entails all EXCEPT",
+    "options": {
+      "A": "Accomodation problem",
+      "B": "Transition of experience from secondary to university",
+      "C": "Adaptation to new environment",
+      "D": "Misplaced sense of direction"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "The following are the most important things an individual needs to do to stay healthy EXCEPT",
+    "options": {
+      "A": "Eating well",
+      "B": "Read well",
+      "C": "Exercising well",
+      "D": "Resting well"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "The most effective way of combating HIV infection today is by",
+    "options": {
+      "A": "Use of vaccine",
+      "B": "Preventing exposure to the virus",
+      "C": "Killing all HIV positive people",
+      "D": "None of the above"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "HIV diagnosis is done in two stages. The first stage is called",
+    "options": {
+      "A": "Confirmation",
+      "B": "Screening",
+      "C": "Polymerase chain reaction",
+      "D": "None of the above"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Herpes simplex infection is an example of",
+    "options": {
+      "A": "Bacterial STI",
+      "B": "VIral STI",
+      "C": "Fungi STI",
+      "D": "Protozoan STI"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Vitamin A performs the following fuctions EXCEPT",
+    "options": {
+      "A": "It is an antioxidant",
+      "B": "Helps in maintaining healthy eyes and skin",
+      "C": "Needed for normal growth and reproduction",
+      "D": "It serves as antibody, fighting infections"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "The following is true about cancer",
+    "options": {
+      "A": "Occurs when cells proliferate uncontrollably",
+      "B": "Can arise in any organ",
+      "C": "All of the above",
+      "D": "None of the above"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "The following are common means of direct contact of transmission",
+    "options": {
+      "A": "Sexual activity",
+      "B": "Respiratory",
+      "C": "Inanimate object",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "The following are the characteristics of a girl presenting for HIV counselling and testing following sexual assault EXCEPT",
+    "options": {
+      "A": "Highly emotional",
+      "B": "Abusive",
+      "C": "Anxious",
+      "D": "Non-communicative and in shock"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "The reproductive system",
+    "options": {
+      "A": "Is critical for survival of the organism because an individual cannot live long, healthy and happy life without reproducing",
+      "B": "The major function is to ensure continuity of the species",
+      "C": "It can be changed easily by doctors",
+      "D": "It is the same for men and women"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Transmission of HIV from mother to her child can occur during the following EXCEPT",
+    "options": {
+      "A": "During pregnancy",
+      "B": "During delivery",
+      "C": "During breast feeding",
+      "D": "During childcare"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "The following are the importance of HIV counselling and testing EXCEPT",
+    "options": {
+      "A": "It is vital for identifying HIV-positive persons to provide services",
+      "B": "It is an opportunity to know somebody else secrets",
+      "C": "It provides an entry point to comprehensive HIV/AIDS treatment",
+      "D": "It helps to identify and reduce behaviours that increase HIV transmission risks"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "The following statement is NOT correct in HIV/AIDS programme and services",
+    "options": {
+      "A": "Individuals should be able to 'opt out' of counselling or testing",
+      "B": "Counselling and testing must be truly voluntary",
+      "C": "Pre-test counselling is a session taken after HIV test is performed",
+      "D": "HIV counselling is an interaction between a counsellor and a cousellee on HIV and AIDS issues with the purpose of empowering the counselee to make informed decisions and face the challenges associated with his/her HIV status"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "The most abundant nutrient in the body is",
+    "options": {
+      "A": "Protein",
+      "B": "Carbohydrate",
+      "C": "Fat",
+      "D": "Water"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "Non-communicable diseases can be prevented and controlled by",
+    "options": {
+      "A": "Health awareness",
+      "B": "People seeking care once they notice unusual symptoms or growths in any part of the body",
+      "C": "Eating healthy",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "Some of the benefits in knowing one's HIV status include",
+    "options": {
+      "A": "Ability to access available care and treatment",
+      "B": "Enhances ability to protect self and sexual partner",
+      "C": "All of the above",
+      "D": "None of the above"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Sexually  transmitted infection is defined as",
+    "options": {
+      "A": "Diseases caused by drinking dirty water",
+      "B": "Diseases originated from eating dirty food",
+      "C": "Diseases acquired through sexual intercourse",
+      "D": "Diseases that do not have any cause"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "How many hours of physical activities does  an individual need to carry out every month to stay healthy?",
+    "options": {
+      "A": "Half an hour",
+      "B": "Three hours",
+      "C": "Two and a half hour",
+      "D": "Five hours"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "During post-test counselling for HIV positive patients",
+    "options": {
+      "A": "Further clarification of understanding is done",
+      "B": "The counsellor should review benefits of knowing HIV status with the patient",
+      "C": "The patient should be assisted to address immediate concerns",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "In HIV counselling and testing",
+    "options": {
+      "A": "Information on patient's HIV status is kept private",
+      "B": "Information about patient's HIV status cannot be shared among providers directly involved in care",
+      "C": "Post-test results is given in group",
+      "D": "Disclosure of one's result should not be encouraged because it is a confidential issue"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "HIV infection in infants born to positive mothers cannot be established using routine HIV antibody test because",
+    "options": {
+      "A": "Babies do not produce antibodies",
+      "B": "Difficulty of differentiating mother's and baby's antibodies",
+      "C": "HIV does not cross from mother to child",
+      "D": "None of the above"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "The male external genitalia consists of",
+    "options": {
+      "A": "The ovaries",
+      "B": "The testes",
+      "C": "All of the above",
+      "D": "None of the above"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "HIV CANNOT be transmitted through the following ways",
+    "options": {
+      "A": "Coughing and sneezing",
+      "B": "Mosquito bite",
+      "C": "All of the above",
+      "D": "None of the above"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "The following disease agents can be transmitted to humans through dog bite",
+    "options": {
+      "A": "Typhoid fever",
+      "B": "Hay fever",
+      "C": "Rabies virus",
+      "D": "Lassa fever"
+    },
+    "answer": "C"
   }
 ]
