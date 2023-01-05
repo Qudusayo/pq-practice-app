@@ -13,9 +13,22 @@
 }
 
 .Quiz {
-  margin: 10em auto;
+  margin: 6em auto 10em;
   width: 90vw;
   max-width: 650px;
+
+  &Exit {
+    display: flex;
+    margin-bottom: 4em;
+    align-items: center;
+    color: #249efb;
+    cursor: pointer;
+    gap: 0.5em;
+  }
+
+  .questionNumber {
+    font-weight: bold;
+  }
 
   &Options {
     margin-top: 1em;
@@ -88,5 +101,10 @@
     margin-left: auto;
     outline: none;
     border: none;
+
+    &:disabled {
+      cursor: not-allowed;
+      background-color: rgba(201, 201, 201, 0.908);
+    }
   }
 }

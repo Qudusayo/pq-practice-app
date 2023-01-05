@@ -1,14 +1,17 @@
 import React, { useEffect, useState } from "react";
-
+import Swal from "sweetalert2";
 import { shuffle } from "../../functions/shuffle";
 
 import styles from "./Quiz.module.scss";
 import { questionsInterface } from "../../types/questionArrayType";
+import { useRouter } from "next/router";
 
 export default function Quiz({
   practiceQuestions,
+  handleQuizSubmission,
 }: {
   practiceQuestions: questionsInterface[];
+  handleQuizSubmission: (wrongChoices: number, rightChoices: number) => void;
 }) {
   const [entry, setEntry] = useState(0);
   const [entryOptions, setEntryOptions] = useState<string[]>([]);
@@ -16,6 +19,7 @@ export default function Quiz({
   const [userEntries, setUserEntries] = useState<
     { userSelectedOption: string; validity: boolean; validValue: string }[]
   >([]);
+  const router = useRouter();
 
   useEffect(() => {
     setQuestions(practiceQuestions);
@@ -50,9 +54,53 @@ export default function Quiz({
     setEntry((prevEntry) => (prevEntry += 1));
   };
 
+  const finishQuiz = () => {
+    let userGrade = userEntries.reduce(
+      (result, current) => {
+        if (current.validity) {
+          if (result?.rightChoices) {
+            result.rightChoices += 1;
+          } else {
+            result.rightChoices = 1;
+          }
+        } else {
+          if (result?.wrongChoices) {
+            result.wrongChoices += 1;
+          } else {
+            result.wrongChoices = 1;
+          }
+        }
+        return result;
+      },
+      { rightChoices: 0, wrongChoices: 0 }
+    );
+    return handleQuizSubmission(userGrade.wrongChoices, userGrade.rightChoices);
+  };
+
+  const backToHome = () => {
+    Swal.fire({
+      title: "Are you sure?",
+      text: "This will reset your progress",
+      icon: "warning",
+      showCancelButton: true,
+      confirmButtonColor: "#3085d6",
+      cancelButtonColor: "#d33",
+      confirmButtonText: "Yes, Go back!",
+    }).then((result) => {
+      if (result.isConfirmed) {
+        router.push("/");
+      }
+    });
+  };
+
   return (
     <div className={styles.Quiz}>
+      <div className={styles.QuizExit} onClick={backToHome}>
+        <img src={"chevron-left.svg"} />
+        <span>Back to Home</span>
+      </div>
       <div>
+        <span className={styles.questionNumber}>Question - {entry + 1}</span>
         <p>{questions[entry]?.question}</p>
       </div>
       <div className={styles.QuizOptions}>
@@ -101,7 +149,11 @@ export default function Quiz({
           })
         )}
       </div>
-      <button type="button" onClick={showNextEntry}>
+      <button
+        type="button"
+        onClick={entry + 1 === questions.length ? finishQuiz : showNextEntry}
+        disabled={entry === userEntries.length}
+      >
         {entry + 1 === questions.length ? "Finish" : "Next"}
       </button>
     </div>

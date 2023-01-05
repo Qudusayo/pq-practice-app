@@ -1,0 +1,802 @@
+[
+  {
+    "question": "Dental Caries can be caused by excessive intake of ",
+    "options": {
+      "A": "Meat and Fish",
+      "B": "Fruit and Fiber",
+      "C": "Milk and Cheese",
+      "D": "Sweet and Sugar"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "The following are factors that encourage the spread of HIV infection in a community EXCEPT?",
+    "options": {
+      "A": "Stigma and Discrimination",
+      "B": "cares and support for HIV positive people",
+      "C": "widow inheritance",
+      "D": "poverty"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "An example of host factors that may influence the acquisition of HIV include the following",
+    "options": {
+      "A": "the presence of other STIs",
+      "B": "sexual intercourse during menstruation",
+      "C": "lack of circumcision",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "Gender Violence is ",
+    "options": {
+      "A": "any act that results in or is likely to result in physical, or sexual or psychological harm or suffering to men or women",
+      "B": "physical or sexual abuse of a female by a male",
+      "C": "All of the above",
+      "D": "None of the above"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Treatment of STIs services can be accessed in the following places",
+    "options": {
+      "A": "Market",
+      "B": "Traditional healers",
+      "C": "Youth and adolescent clinic",
+      "D": "from friends"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "All but one of the following are examples of drugs that change the mood of their users",
+    "options": {
+      "A": "Alcohol",
+      "B": "Nescafe",
+      "C": "Indian hemp",
+      "D": "Cocaine"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Good nutrition will ensure the following EXCEPT:",
+    "options": {
+      "A": "Normal weight for height, strong muscles and moderate body fat",
+      "B": "Resistance to disease and maintenance of good health",
+      "C": "Ability to concentrate with efficient productivity",
+      "D": "Stunting and wasting"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "The following methods will contribute positively to reducing HIV transmission from mother to her child",
+    "options": {
+      "A": "Educating and test women of child bearing age",
+      "B": "HIV counselling and testing",
+      "C": "Use of antiviral drugs by positive pregnant women",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "One can know his/her HIV status by",
+    "options": {
+      "A": "looking out for symptoms",
+      "B": "going for a laboratory test",
+      "C": "attending a workshop on HIV",
+      "D": "asking a friend"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "The behaviours of individuals are influenced by all but one of the following factors:",
+    "options": {
+      "A": "The environment in which the individual lives",
+      "B": "The influence of significant persons in the individual's life",
+      "C": "The resources that are available in the community the individual life",
+      "D": "The name of the community where the individual was born"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "All but one of the following is not a challenge faced by students of the University of Ibadan",
+    "options": {
+      "A": "Sharing a room with fellow students",
+      "B": "Heavy academic workload",
+      "C": "Living and adapting to a completely new environment",
+      "D": "None of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "Taking a lot of animal fat should be avoided because of its high content of ",
+    "options": {
+      "A": "Protein",
+      "B": "Mineral",
+      "C": "Cholesterol",
+      "D": "fat soluble vitamins"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "To get full benefit of condoms it must be used",
+    "options": {
+      "A": "Consistently and correctly",
+      "B": "Only with promiscuous partners",
+      "C": "All of the above",
+      "D": "None of the above"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "HIV will infect",
+    "options": {
+      "A": "all vertebrate animals",
+      "B": "both plants and animals",
+      "C": "only humans",
+      "D": "All of the above"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "___________ is the life skill programme with the objective of no-discriminatory, equally benefit women and men and aim at correcting gender imbalances",
+    "options": {
+      "A": "Sterotype Responsive",
+      "B": "Masculine and Feminine Response",
+      "C": "Sex Responsiveness",
+      "D": "Physiological Response"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "The advantage early detection of HIV include",
+    "options": {
+      "A": "Likehood of long healthy life",
+      "B": "enrollment for antiretroviral therapy",
+      "C": "can protect partner frm becoming infected",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "Which of the following is the best definition of health",
+    "options": {
+      "A": "A state of complete physical, mental and social well being and not merely the absence or diseases",
+      "B": "A state of complete social hapiness and not merely absence of diseases",
+      "C": "A state of best physical and social well being",
+      "D": "None of the above"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "A negative HIV result means of following EXCEPT",
+    "options": {
+      "A": "evidence of the presence of virus not found",
+      "B": "the person may not have the virus",
+      "C": "the person is resistant of HIV",
+      "D": "the person may be in window period"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "The best way of preventing diarrhoea is to:",
+    "options": {
+      "A": "Cook food thoroughly before eating",
+      "B": "wash fruits well before eating them",
+      "C": "wash hands with soap after using the toilet",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "The best definition of sexuality education is ",
+    "options": {
+      "A": "A process of providing information, skills and sertvices to enable indidviduals abdopt safe sexual practices",
+      "B": "A process od encouraging indidivuals to have positive attitude about sexual practices",
+      "C": "A process of providing information for HIV preventions and care for those already infected",
+      "D": "A peocess of informing young persons to ensure that they remain healthy"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "The following is true of adolescence ",
+    "options": {
+      "A": "A time of self-definition",
+      "B": "A period of acquirinf a sense of identity",
+      "C": "A  period full of life experimentation ",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "A series of self developmental sessions where basic skills are taght is ",
+    "options": {
+      "A": "Communication skills ",
+      "B": "Behaviour modifying skills ",
+      "C": "Building skills ",
+      "D": "Life Building skills"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "The theroretical perspective which views the youth subculture as a reaction of subordinated groups that challenge the hegemony of the dominant culture thus accounting for factors such as gender, ethnicity and age is ",
+    "options": {
+      "A": "Marxian perspective",
+      "B": "Functional perspective",
+      "C": "Post-structural perspective",
+      "D": "Feminist perspective"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "All but one of the following is an advantage of exercise",
+    "options": {
+      "A": "Makes an individual feel better about himself/herself",
+      "B": "Helps individuals maintain healthy weight",
+      "C": "Helps to prevent diseases such as malaria",
+      "D": "Helps to prevent stress"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "___________ is not another word for youth",
+    "options": {
+      "A": "Young person",
+      "B": "Teen ",
+      "C": "Adolescent",
+      "D": "Child"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "The most common route of transmission of pathogen in underdeveloped countries is ",
+    "options": {
+      "A": "sexual",
+      "B": "fecal-oral",
+      "C": "Mother to child",
+      "D": "contaminated needle"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "The agent of the following diseases are easily transmitted by droplet contacts such as coughing or sneezing",
+    "options": {
+      "A": "Yellow fever",
+      "B": "Tuberculosis",
+      "C": "Syphillis",
+      "D": "All of the above"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "The following individuals have sickle cell disease EXCEPT",
+    "options": {
+      "A": "HbSS",
+      "B": "HbAS",
+      "C": "HbSD",
+      "D": "HbSC"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "The most predominant mode of transmission of HIV among the adult population in Nigeria is ",
+    "options": {
+      "A": "blood transfusion",
+      "B": "mother to child transmission",
+      "C": "sexual intercourse",
+      "D": "sharing of sharp object"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "The following are the functions of reproductive system ",
+    "options": {
+      "A": "Production of egg and sperm cells",
+      "B": "Transportation and sustenance of these cells ",
+      "C": "Nurturing the developing offspring",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "Sickle cell disease is as a result of a disorder in ",
+    "options": {
+      "A": "protein portion of the haemoglobin ",
+      "B": "the red cells of the body",
+      "C": "gene controlling the formation of the haemoglobin ",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "In the context of non-communicable diseases, the computer revolution is",
+    "options": {
+      "A": "an advantage to man ",
+      "B": "a disadvantage to man ",
+      "C": "has no role to play ",
+      "D": "is in-significant"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Not everyone that is infected with HIV has AIDS because",
+    "options": {
+      "A": "One can be infected with HIV for a long time before developing AIDS ",
+      "B": "AIDS only develop at the late stage of HIV infection ",
+      "C": "All of the above",
+      "D": "None of the above"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "In ejaculation ",
+    "options": {
+      "A": "Ejaculation occurs when sexually arousing impulses reach a certain level and there is increase of penile sympathetic nerve activity",
+      "B": "There is contraction of reproductive ducts and glands and the emptying od their contents into the uretha",
+      "C": "Ejaculation is associated with generalized muscle contraction, increased heart rate, and increased blood pressure",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "Core life skill education is the ability to do all the following EXCEPT",
+    "options": {
+      "A": "communicate, including listen, build empathy, be assertive and negotiate ",
+      "B": "Make decisions, solve problem and think critically and creatively ",
+      "C": "Cope with emotions and stress ",
+      "D": "Take risk with little or no consultation"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "The following are types of counseling in HIV/AIDS services EXCEPT",
+    "options": {
+      "A": "Pre-HIV test counselling",
+      "B": "Post-HIV test counselling ",
+      "C": "Advisory counselling",
+      "D": "On-going HIV counselling"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "The following diseases agents are transmitted by arthropod vectors EXCEPT ",
+    "options": {
+      "A": "Yellow fever",
+      "B": "Sleeping sickness",
+      "C": "Malaria",
+      "D": "Influenza"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "One of the following behaviours can shorten the lifespan of an individual ",
+    "options": {
+      "A": "Smoking of cigarette",
+      "B": "Eating healthy",
+      "C": "All of the above ",
+      "D": "None of the above"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "The most effective way to avoid contact with sexually transmitted infections is ",
+    "options": {
+      "A": "Use condoms",
+      "B": "Use of preventive drugs",
+      "C": "Abstinence ",
+      "D": "Monogamy"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "One of the features of HIV is that it has many strain/subtypes. This has implication in ",
+    "options": {
+      "A": "vaccine develpomemt ",
+      "B": "diagnosis of infection with HIV",
+      "C": "response to drug",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "The following are erectile or ejaculatory problems",
+    "options": {
+      "A": "Testicular torsion",
+      "B": "Premature ejaculation",
+      "C": "Scrotal varicocoele",
+      "D": "Mumps orchitis"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "In Nigeria, support for HIV/AIDS program come from various sources including",
+    "options": {
+      "A": "USG PEPFAR",
+      "B": "Global Fund",
+      "C": "Federal government of Nigeria",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "The following will encourge sexual transmission of HIV EXCEPT",
+    "options": {
+      "A": "Stage of Infection",
+      "B": "Virulence of the virus",
+      "C": "Use of condom",
+      "D": "None of the above"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "HIV stands for",
+    "options": {
+      "A": "Human Influenza virus",
+      "B": "Human immunodeficiency virus",
+      "C": "Horse immune virus",
+      "D": "None of the above"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Non-communicable diseases are becoming more important because of",
+    "options": {
+      "A": "Increasing life expectancy",
+      "B": "dietary and lifestyle changes",
+      "C": "All of the above",
+      "D": "None of the above"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "AIDS is caused by",
+    "options": {
+      "A": "Poor feeding",
+      "B": "Poor hygiene",
+      "C": "Infection with viruses",
+      "D": "Infection with HIV"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "The normal components of the cells are obtained from",
+    "options": {
+      "A": "Fat",
+      "B": "Protein",
+      "C": "Carbohydrate",
+      "D": "Food"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "Genital ulcer diseases include the following EXCEPT",
+    "options": {
+      "A": "Syphilis",
+      "B": "Chancroid",
+      "C": "HIV",
+      "D": "Granuloma Inguinale"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Programmes that have proven effective or have shown evidence of improving youth's reproductive and sexual health include all EXCEPT",
+    "options": {
+      "A": "Use of media information",
+      "B": "Development of self esteem",
+      "C": "Decision making",
+      "D": "Communication and Interpersonal skills"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Viruses possess as their genetic material",
+    "options": {
+      "A": "either DNA or RNA",
+      "B": "both DNA and RNA",
+      "C": "neither DNA nor RNA",
+      "D": "All of the above"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Gonorrhea is caused by",
+    "options": {
+      "A": "Chlamydia trachomatis",
+      "B": "Neisseria gonorrheae",
+      "C": "HIV",
+      "D": "Candida albicans"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "The followiing group of organisms can cause STI EXCEPT",
+    "options": {
+      "A": "Bacteria",
+      "B": "Viruses",
+      "C": "Protozoan",
+      "D": "None of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "The HIV strain that was first isolated in the University of Ibadan is",
+    "options": {
+      "A": "Subtype C",
+      "B": "CRF02-AG",
+      "C": "CRF01-AE",
+      "D": "Subtype B"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "In HIV testing",
+    "options": {
+      "A": "Screening test is all that is needed to say someone is HIV positive",
+      "B": "'Window' period is the period after exposure to HIV when antibodies are not detectable in the blood",
+      "C": "Blood is the only body fluid used for HIV test",
+      "D": "A test done once and is negative is all that is needed to say one is negative"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "All but one of the following is a consequence of risky sexual activities among young persons",
+    "options": {
+      "A": "Unwanted pregnancy",
+      "B": "Sexually transmitted infections",
+      "C": "Dropping out of school",
+      "D": "Honour and respect"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "HIV transmission through blood and blood product can be prevented by",
+    "options": {
+      "A": "Screening of blood for presence of HIV",
+      "B": "Rejecting blood transfusion even when necessary",
+      "C": "Transfusing blood from family member without prior HIV testing",
+      "D": "None of the above"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "The cell in the body that HIV infects is called",
+    "options": {
+      "A": "HIV cell",
+      "B": "CD4 bearing cells",
+      "C": "B-cells",
+      "D": "leucocytes"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "The following statements are true about treatment of HIV infection EXCEPT",
+    "options": {
+      "A": "anti-retroviral drugs are designed to reduce the quantity of virus in the body",
+      "B": "the drugs do cure HIV",
+      "C": "drugs decrease the occurence of opportunistic infection",
+      "D": "Used in combination"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "The arm of the body that protects it against infection is called",
+    "options": {
+      "A": "protective system",
+      "B": "immune system",
+      "C": "responsive system",
+      "D": "reproductive system"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "The following are examples of non-communicable diseases EXCEPT",
+    "options": {
+      "A": "Dementia",
+      "B": "Stroke",
+      "C": "Meningitis",
+      "D": "Hypertension"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "In Reproductive system",
+    "options": {
+      "A": "The primary organs are the ovaries and the testes",
+      "B": "Production of eggs and sperms are functions of the secondary organs",
+      "C": "Production of hormones is not an important function of the reproductive system",
+      "D": "None of the above"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "The following are barriers to HIV counselling and testing",
+    "options": {
+      "A": "Stigma",
+      "B": "Self trust (No need because i am faithful)",
+      "C": "Presumed lack of access to care and support services",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "The Three C Model is a programme which encompasses all EXCEPT",
+    "options": {
+      "A": "Inability to cope with life challenges",
+      "B": "Help to identify Challenges",
+      "C": "Help to take informed choices",
+      "D": "Awareness on consequences of taking a particular choices"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Treatment of STIs services can be accessed in the",
+    "options": {
+      "A": "Market",
+      "B": "Traditional healers",
+      "C": "Youth and adolescent clinic",
+      "D": "From friends"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "HIV causes AIDS by",
+    "options": {
+      "A": "assisting the immune cells",
+      "B": "latent infection",
+      "C": "destroying the cell that is at the centre of the immune system",
+      "D": "none of the above"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Pathogens are",
+    "options": {
+      "A": "Disease causing microbes",
+      "B": "Harmful to health",
+      "C": "Transmitted from one person to another",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "A baby from a couple with blood haemoglobin genotype AS/AS has",
+    "options": {
+      "A": "25% chance of being SS",
+      "B": "50% chance of being SS",
+      "C": "5% chance of being SS",
+      "D": "No chance of being SS"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Genes constitute the basis of life because",
+    "options": {
+      "A": "they control biologically inherited traits",
+      "B": "they are genetic materials",
+      "C": "they cannot change",
+      "D": "None of the above"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Routine HIV test will detect",
+    "options": {
+      "A": "Virus",
+      "B": "Antibody",
+      "C": "Viral genome",
+      "D": "None of the above"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "HIV is transmitted through the following EXCEPT",
+    "options": {
+      "A": "Sexual intercourse",
+      "B": "Hand shake",
+      "C": "Blood transfusion",
+      "D": "Use of contaminated needle"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "All of the following EXCEPT one is an example of life-skills that adolescents need to cope with daily life challenges",
+    "options": {
+      "A": "Refusal skills",
+      "B": "Assertiveness sills",
+      "C": "Negotiation skills",
+      "D": "Dressing skills"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "Non-communicable diseases (NCD) are",
+    "options": {
+      "A": "Non-infectious health conditions",
+      "B": "Are not caused by any known causative agents",
+      "C": "Are not acquired by person-to-person contact",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "AIDS is",
+    "options": {
+      "A": "Acquired Infectious Disease Syndrome",
+      "B": "Acquired Immune Down Snydrome",
+      "C": "Acquired Immunodeficiency Syndrome",
+      "D": "None of the above"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Whitish foul smelling vaginal discharge with associated itching may be caused by the following infections",
+    "options": {
+      "A": "Candidiasis",
+      "B": "Trichomoniasis",
+      "C": "Bacteria vaginosis",
+      "D": "Unirary tract infections"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Secondary sexual development in girls involves",
+    "options": {
+      "A": "enlargment of the ovaries",
+      "B": "enlargment of the uterus",
+      "C": "growth of pubic hair",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "The most effective method of preventing indirect transmission",
+    "options": {
+      "A": "Proper cooking of food materials",
+      "B": "Irradiation",
+      "C": "Hand washing",
+      "D": "Abstinence"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "The period of adolescence is divided into",
+    "options": {
+      "A": "Early and Late adolescence",
+      "B": "Early, Mid and Late adolescence",
+      "C": "Early adolescence and youth",
+      "D": "None of the above"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "The most effective way to prevent malaria is by",
+    "options": {
+      "A": "Avoiding mosquito bite",
+      "B": "Use of weekly preventive drugs",
+      "C": "Vaccination",
+      "D": "Avoiding stressful conditions"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Vitamin A is important for growth and vision and can be obtained from",
+    "options": {
+      "A": "Yam",
+      "B": "Cowpea",
+      "C": "Liver",
+      "D": "Sugarcane"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "The following are true of sickle cell disease",
+    "options": {
+      "A": "It is an inherited disease",
+      "B": "It is an acquired disease",
+      "C": "It is contagous",
+      "D": "It is acquired by living in a crowded environment"
+    },
+    "answer": "A"
+  }
+]

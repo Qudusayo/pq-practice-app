@@ -1,0 +1,602 @@
+[
+  {
+    "question": "Ils sont fatigués. Elles sont _______",
+    "options": {
+      "A": "fatigues ",
+      "B": "fatiguces",
+      "C": "fatigées",
+      "D": "fatiguées"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "Ade joue au football",
+    "options": {
+      "A": "Ade ne joue guerre au football",
+      "B": "Ade ne joue au guerre football",
+      "C": "Ade ne joue au football guerre",
+      "D": "Ade ne guerre joue au football"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Ce camion est japonais. Ces voitures sont ______",
+    "options": {
+      "A": "japonaises",
+      "B": "japonaise",
+      "C": "japonaisees",
+      "D": "japonaies"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Nous (vendre) la voiture avant la crise économique de notre pays",
+    "options": {
+      "A": "vendraient",
+      "B": "vendions",
+      "C": "vendiez",
+      "D": "vendons"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "L'acronyme « RSVP » veut dire.....",
+    "options": {
+      "A": "Rice and soup very plenty",
+      "B": "Repondez s'il vous plait",
+      "C": "Répondez s'il vous plait",
+      "D": "Repondes s'il vous plait"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Elle (s'appeler) Gbelepawo avant le décès de son père",
+    "options": {
+      "A": "s'appeles",
+      "B": " appelait",
+      "C": "s'appellaient",
+      "D": "s'appelait"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "La mère parle....enfants",
+    "options": {
+      "A": "aux ",
+      "B": "à les",
+      "C": "au",
+      "D": "du"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Mon sac est _______ mais ma robe est _______",
+    "options": {
+      "A": "noir/gris",
+      "B": "noir/grise",
+      "C": "noire/grise",
+      "D": "noire/grisé"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "ils (finir) leurs devoirs",
+    "options": {
+      "A": "finissent",
+      "B": "finissant",
+      "C": "finissons",
+      "D": "finissions"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "0 filles sont plus méticuleuses que _______ fils",
+    "options": {
+      "A": "Les/les",
+      "B": "Les/le",
+      "C": "La/La",
+      "D": "La/Les"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Le sens de la CEDEAO",
+    "options": {
+      "A": "Communauté D'Etats Economique Afrique de l'Ouest",
+      "B": "Cérémonie Economique Detats de l'Afrique de l'Ouest",
+      "C": "Communauté economique Des estates de l'Africain de l'Ouest",
+      "D": "Communauté Economique Des Etats de l'Afrique de l'Ouest "
+    },
+    "answer": "D"
+  },
+  {
+    "question": "Don Juan parle _______ fille.",
+    "options": {
+      "A": "à la",
+      "B": "a la",
+      "C": "au",
+      "D": "du"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Remplacez les noms soulignez avec le pronom << en » dans votre réponse: As-tu du stylo? Oui, ________ beaucoup.",
+    "options": {
+      "A": "en",
+      "B": "j'en a",
+      "C": "j'en ai du stylo",
+      "D": "j'en ai"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "Tu parles garçons.",
+    "options": {
+      "A": "au",
+      "B": "à les",
+      "C": "aux",
+      "D": "du"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Tu (écrire) une lettre",
+    "options": {
+      "A": "écrive",
+      "B": "écris",
+      "C": "écrit",
+      "D": "écrite "
+    },
+    "answer": "B"
+  },
+  {
+    "question": "C'est le stylo de _______ ami ",
+    "options": {
+      "A": "Mon",
+      "B": "Nos",
+      "C": "Ses",
+      "D": "Tes "
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Il conduit la voiture",
+    "options": {
+      "A": "Il conduit ne la jamais voiture",
+      "B": "Il ne conduit jamais la voiture",
+      "C": "Il ne jamais conduit la voiture",
+      "D": "Il conduit la voiture ne jamais "
+    },
+    "answer": "B"
+  },
+  {
+    "question": ". Instruction: Conjugate the French verbs in the brackets in the simple present tense. Nous (manger) des ignames",
+    "options": {
+      "A": "mangent",
+      "B": "mangons",
+      "C": "mangeons",
+      "D": "mangeant"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "As-tu du fromage? Non, je pas",
+    "options": {
+      "A": "non en ai",
+      "B": "n'e n ai",
+      "C": "n'en",
+      "D": "n'ai pas"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "________ Gambie est un pays en Afrique.",
+    "options": {
+      "A": "Les",
+      "B": "Le",
+      "C": "La",
+      "D": "du"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Ce roman est un mauvais. Ces nouvelles sont ________",
+    "options": {
+      "A": "mauvaisies",
+      "B": "mauvaisees",
+      "C": "mauvaises",
+      "D": "mauvaisont"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Tu parles français",
+    "options": {
+      "A": "tu ne plus parles français",
+      "B": "tu plus ne parles français",
+      "C": "tu ne parles français plus",
+      "D": "tu ne parles plus français"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "I joue ________ guitare",
+    "options": {
+      "A": "du",
+      "B": "de",
+      "C": "de la",
+      "D": "de l'"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Le garçon est",
+    "options": {
+      "A": "Jolie",
+      "B": "Petite",
+      "C": "Belle",
+      "D": "Beau"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "Ce garçon mange _________ bonbons",
+    "options": {
+      "A": "trop de",
+      "B": "tôt de",
+      "C": "plusieurs",
+      "D": "mainte"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Je vais marché",
+    "options": {
+      "A": "Je vais à la marche",
+      "B": "Je vas au marché",
+      "C": "Je va au marché",
+      "D": "Je vais au marché"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "Ils mangent ________ bananes",
+    "options": {
+      "A": "de",
+      "B": "des",
+      "C": "du",
+      "D": "de la"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Monsieur, ....... coûte ce papier? Ceci? Il coûte N200",
+    "options": {
+      "A": "combien",
+      "B": "comment",
+      "C": "voilà",
+      "D": "ca"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "...... heroine de cette classe est Mademoiselle Ohia",
+    "options": {
+      "A": "L'",
+      "B": "La",
+      "C": "Les",
+      "D": "Ce"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Mon oncle et ma tante sont",
+    "options": {
+      "A": "Heureuse",
+      "B": "Contente",
+      "C": "Content",
+      "D": "Contents"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "C'est mon cahier",
+    "options": {
+      "A": "La tienne",
+      "B": "la tien",
+      "C": "le mien",
+      "D": "la sien"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "............. gomme sur mon crayon est coupé",
+    "options": {
+      "A": "Un",
+      "B": "Les",
+      "C": "La",
+      "D": "Je"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Messi vient de l'Amerique. Il est ......",
+    "options": {
+      "A": "Footballeur",
+      "B": "Messiquain",
+      "C": "Américaine",
+      "D": "Américain"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "Tu manges.... riz",
+    "options": {
+      "A": "de",
+      "B": "du",
+      "C": "des",
+      "D": "de"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Ils (avoir) une sceur avant la guerre",
+    "options": {
+      "A": "ont",
+      "B": "avaient",
+      "C": "aviez",
+      "D": "avait"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Vont-ils à la boulangerie ce soir? Non pas",
+    "options": {
+      "A": "il n'y va",
+      "B": "ils n'y vont",
+      "C": "ils ne vont y",
+      "D": "ils ne irais y"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "..... photo représente un homme",
+    "options": {
+      "A": "Ce",
+      "B": "Ces",
+      "C": "Cet",
+      "D": "Ses"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Vingt-deux moins dix font ......",
+    "options": {
+      "A": "Trente-deux",
+      "B": "un",
+      "C": "douze",
+      "D": "Quarante"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Quelles sont les couleurs du drapeau du Nigeria?",
+    "options": {
+      "A": "Vert et blanc",
+      "B": "Rouge, Jaune, vert",
+      "C": "Verte et blanc",
+      "D": "Verte et blanche"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "Elle parle......professeur",
+    "options": {
+      "A": "aux",
+      "B": "à les",
+      "C": "au",
+      "D": "a l'"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Rent in Vient du Togo alors elle est",
+    "options": {
+      "A": " Togo",
+      "B": "Togolaise",
+      "C": " Togolese",
+      "D": "Togolas"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Remplace les noms soulignez avec le pronom ay dans votre réponse; Etes-vous dans la maison? Oui, nous_______",
+    "options": {
+      "A": "y sommes",
+      "B": " y suis",
+      "C": "y étes",
+      "D": "sommes"
+    },
+    "answer": "A"
+  },
+  {
+    "question": " C'est la règle de mon frère ! C'est ________",
+    "options": {
+      "A": " La sienne ",
+      "B": " La tienne",
+      "C": " La notre",
+      "D": " Le sien"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "La table nous appartient. C'est",
+    "options": {
+      "A": "la nôtre",
+      "B": "Notre",
+      "C": " Le votre",
+      "D": " la leur"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "C'est un film français. Ce sont des émissions_____",
+    "options": {
+      "A": "francais",
+      "B": "français",
+      "C": "francaises",
+      "D": "francaisees"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Allons-nous au marché cet après-midi?",
+    "options": {
+      "A": " Oui, nous y allons",
+      "B": " Oui, je y allons",
+      "C": " Oui. nous y allez",
+      "D": " Non, nous y allon "
+    },
+    "answer": "A"
+  },
+  {
+    "question": "__________France est loin d'ici",
+    "options": {
+      "A": " La",
+      "B": " L ",
+      "C": "Le",
+      "D": " Les"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Le livre de mon devoir____ dans mon sac",
+    "options": {
+      "A": " est",
+      "B": "es",
+      "C": "suis",
+      "D": "sont"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "J'invite tous______amis à mon mariage",
+    "options": {
+      "A": "Mes",
+      "B": "Notre",
+      "C": "Son",
+      "D": "Ton"
+    },
+    "answer": "A"
+  },
+  {
+    "question": " Les étudiants portent_____sacs",
+    "options": {
+      "A": "Son",
+      "B": "Leurs",
+      "C": "Leur",
+      "D": "La"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Je bois.... thé avec mes amis",
+    "options": {
+      "A": "de la",
+      "B": "dé",
+      "C": "du",
+      "D": "des"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "J'aime mon stylo",
+    "options": {
+      "A": "Je le aime",
+      "B": "Je l'aiment",
+      "C": "Je l'aime",
+      "D": "Je en aime"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Je (pleurer) beaucoup quand je (être) avec ma tante",
+    "options": {
+      "A": "pleurais/j'étais",
+      "B": "pleurais/étais",
+      "C": "pleuras/j'était",
+      "D": "pleurais/étaient"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Quarante divisé par quatre font....",
+    "options": {
+      "A": "zéro",
+      "B": "dix-six",
+      "C": "dix-sept",
+      "D": "dix"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "Je mange des bonbons. Je.... mange.",
+    "options": {
+      "A": "le",
+      "B": "les",
+      "C": "leur",
+      "D": "ta"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Nous regardons un film",
+    "options": {
+      "A": "Nous ne regardons que un film",
+      "B": "Nous ne que regardons un film",
+      "C": "Nous ne regardons qu'un film",
+      "D": "Nous regardons ne qu'un film"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Les pulls sont gris. Les robes sont....",
+    "options": {
+      "A": "gris",
+      "B": "grises",
+      "C": "grisés",
+      "D": "grisse"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Elle n'a pas .... argent",
+    "options": {
+      "A": "plenté",
+      "B": "beaucoup de",
+      "C": "beaucoup d'",
+      "D": "plusieurs"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Les vêtements font.... bruit.",
+    "options": {
+      "A": "Des",
+      "B": "Dès",
+      "C": "Du",
+      "D": "Voilà"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Il est ....",
+    "options": {
+      "A": "Grand",
+      "B": "Grandes",
+      "C": "Grande",
+      "D": "Grind"
+    },
+    "answer": "A"
+  }
+]

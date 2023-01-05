@@ -1,25 +1,18 @@
-import Quiz from "../components/Quiz/Quiz";
-import quests from "./../questions.json";
-import { questionsInterface } from "../types/questionArrayType";
-import { ResultChart } from "../components/Quiz/ResultChart/ResultChart";
+import Link from "next/link";
+import styles from "./../styles/Home.module.scss";
 
-export default function Home({
-  practiceQuestions,
-}: {
-  practiceQuestions: questionsInterface[];
-}) {
+export default function Home() {
   return (
-    <>
-      <Quiz practiceQuestions={practiceQuestions} />
-      {/* <ResultChart /> */}
-    </>
+    <div className={styles.Home}>
+      <h2>Select Quiz to Paractice</h2>
+      <div className={styles.Buttons}>
+        <Link href={"/ges-107"} className={styles.ButtonsLink}>
+          GES 107
+        </Link>
+        <Link href={"/ges-108"} className={styles.ButtonsLink}>
+          GES 108
+        </Link>
+      </div>
+    </div>
   );
-}
-
-export async function getServerSideProps() {
-  return {
-    props: {
-      practiceQuestions: quests,
-    },
-  };
 }
