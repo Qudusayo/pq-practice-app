@@ -1,12 +1,14 @@
 import Quiz from "../components/Quiz/Quiz";
 import { questionsInterface } from "../types/questionArrayType";
-import { ResultChart } from "../components/Quiz/ResultChart/ResultChart";
+import { ResultChart } from "../components/ResultChart/ResultChart";
 import { useEffect, useState } from "react";
 
 import styles from "./../styles/Home.module.scss";
 import axios from "axios";
 import localforage from "localforage";
-import Meme from "../components/Quiz/Meme/Meme";
+import Meme from "../components/Meme/Meme";
+import { useSwitchContext } from "../context/shuffleContext";
+import { shuffle } from "../functions/shuffle";
 
 export default function Ges108({
   practiceQuestions,
@@ -17,6 +19,7 @@ export default function Ges108({
     wrongChoices: 0,
     rightChoices: 0,
   });
+  const { shuffled } = useSwitchContext()!;
   const [completedQuiz, setCompletedQuiz] = useState(false);
   const [isValidUser, setIsValidUser] = useState<boolean | null>(null);
 
@@ -61,7 +64,9 @@ export default function Ges108({
     <>
       {!completedQuiz && (
         <Quiz
-          practiceQuestions={practiceQuestions}
+          practiceQuestions={
+            shuffled ? shuffle(practiceQuestions) : practiceQuestions
+          }
           handleQuizSubmission={handleQuizSubmission}
         />
       )}
@@ -90,4 +95,4 @@ export async function getServerSideProps() {
       practiceQuestions: questionsResponse.data,
     },
   };
-};
+}

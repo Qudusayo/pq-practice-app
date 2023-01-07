@@ -4,9 +4,22 @@
 
   h2 {
     text-align: center;
-    margin-bottom: 1em;
     font-size: 2em;
     font-weight: 400;
+    text-transform: uppercase;
+  }
+
+  .ToggleControl {
+    display: flex;
+    align-items: center;
+    width: fit-content;
+    margin: 0 auto 2em;
+
+    h2 {
+      font-size: 1.2em;
+      margin-bottom: 0;
+      margin-right: 0.6em;
+    }
   }
 
   .Buttons {

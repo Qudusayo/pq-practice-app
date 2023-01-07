@@ -2,10 +2,13 @@ import Link from "next/link";
 import styles from "./../styles/Home.module.scss";
 import { useEffect, useState } from "react";
 import localForage from "localforage";
-import Meme from "../components/Quiz/Meme/Meme";
+import Meme from "../components/Meme/Meme";
+import Switch from "../components/Switch/Switch";
+import { useSwitchContext } from "../context/shuffleContext";
 
 export default function Home() {
   const [isValidUser, setIsValidUser] = useState<boolean | null>(null);
+  const { shuffled, shuffleToggler } = useSwitchContext()!;
 
   useEffect(() => {
     async function verifyAuth() {
@@ -31,6 +34,14 @@ export default function Home() {
   ) : (
     <div className={styles.Home}>
       <h2>Select Quiz to Paractice</h2>
+      <div className={styles.ToggleControl}>
+        <h2>Shuffle Questions: </h2>
+        <Switch
+          isOn={shuffled}
+          onColor="#249efb"
+          handleToggle={shuffleToggler}
+        />
+      </div>
       <div className={styles.Buttons}>
         <Link href={"/ges-107"} className={styles.ButtonsLink}>
           GES 107
