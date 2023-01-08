@@ -1,6 +1,6 @@
 [
   {
-    "question": "Ils sont fatigués. Elles sont _______",
+    "question": "Ils sont fatigués. Elles sont ______",
     "options": {
       "A": "fatigues ",
       "B": "fatiguces",
@@ -40,7 +40,7 @@
     "answer": "B"
   },
   {
-    "question": "L'acronyme « RSVP » veut dire.....",
+    "question": "L'acronyme « RSVP » veut dire ______",
     "options": {
       "A": "Rice and soup very plenty",
       "B": "Repondez s'il vous plait",
@@ -60,7 +60,7 @@
     "answer": "D"
   },
   {
-    "question": "La mère parle....enfants",
+    "question": "La mère parle ______ enfants",
     "options": {
       "A": "aux ",
       "B": "à les",
@@ -70,7 +70,7 @@
     "answer": "A"
   },
   {
-    "question": "Mon sac est _______ mais ma robe est _______",
+    "question": "Mon sac est ______ mais ma robe est ______",
     "options": {
       "A": "noir/gris",
       "B": "noir/grise",
@@ -90,7 +90,7 @@
     "answer": "A"
   },
   {
-    "question": "________ filles sont plus méticuleuses que _______ fils",
+    "question": "______ filles sont plus méticuleuses que ______ fils",
     "options": {
       "A": "Les/les",
       "B": "Les/le",
@@ -110,7 +110,7 @@
     "answer": "D"
   },
   {
-    "question": "Don Juan parle _______ fille.",
+    "question": "Don Juan parle ______ fille.",
     "options": {
       "A": "à la",
       "B": "a la",
@@ -130,7 +130,7 @@
     "answer": "D"
   },
   {
-    "question": "Tu parles ________ garçons.",
+    "question": "Tu parles ______ garçons.",
     "options": {
       "A": "au",
       "B": "à les",
@@ -150,7 +150,7 @@
     "answer": "B"
   },
   {
-    "question": "C'est le stylo de _______ ami ",
+    "question": "C'est le stylo de ______ ami ",
     "options": {
       "A": "Mon",
       "B": "Nos",
@@ -190,7 +190,7 @@
     "answer": "B"
   },
   {
-    "question": "________ Gambie est un pays en Afrique.",
+    "question": "______ Gambie est un pays en Afrique.",
     "options": {
       "A": "Les",
       "B": "Le",
@@ -200,7 +200,7 @@
     "answer": "C"
   },
   {
-    "question": "Ce roman est un mauvais. Ces nouvelles sont ________",
+    "question": "Ce roman est un mauvais. Ces nouvelles sont ______",
     "options": {
       "A": "mauvaisies",
       "B": "mauvaisees",
@@ -220,7 +220,7 @@
     "answer": "D"
   },
   {
-    "question": "I joue ________ guitare",
+    "question": "I joue ______ guitare",
     "options": {
       "A": "du",
       "B": "de",
@@ -230,7 +230,7 @@
     "answer": "C"
   },
   {
-    "question": "Le garçon est _________",
+    "question": "Le garçon est ______",
     "options": {
       "A": "Jolie",
       "B": "Petite",
@@ -240,7 +240,7 @@
     "answer": "D"
   },
   {
-    "question": "Ce garçon mange _________ bonbons",
+    "question": "Ce garçon mange ______ bonbons",
     "options": {
       "A": "trop de",
       "B": "tôt de",
@@ -260,7 +260,7 @@
     "answer": "D"
   },
   {
-    "question": "Ils mangent ________ bananes",
+    "question": "Ils mangent ______ bananes",
     "options": {
       "A": "de",
       "B": "des",
@@ -270,7 +270,7 @@
     "answer": "B"
   },
   {
-    "question": "Monsieur, ....... coûte ce papier? Ceci? Il coûte N200",
+    "question": "Monsieur, ______ coûte ce papier? Ceci? Il coûte N200",
     "options": {
       "A": "combien",
       "B": "comment",
@@ -280,7 +280,7 @@
     "answer": "A"
   },
   {
-    "question": "...... heroine de cette classe est Mademoiselle Ohia",
+    "question": "______ heroine de cette classe est Mademoiselle Ohia",
     "options": {
       "A": "L'",
       "B": "La",
@@ -310,7 +310,7 @@
     "answer": "C"
   },
   {
-    "question": "............. gomme sur mon crayon est coupé",
+    "question": "______ gomme sur mon crayon est coupé",
     "options": {
       "A": "Un",
       "B": "Les",
@@ -320,7 +320,7 @@
     "answer": "C"
   },
   {
-    "question": "Messi vient de l'Amerique. Il est ......",
+    "question": "Messi vient de l'Amerique. Il est ______",
     "options": {
       "A": "Footballeur",
       "B": "Messiquain",
@@ -330,7 +330,7 @@
     "answer": "D"
   },
   {
-    "question": "Tu manges.... riz",
+    "question": "Tu manges ______ riz",
     "options": {
       "A": "de",
       "B": "du",
@@ -360,7 +360,7 @@
     "answer": "B"
   },
   {
-    "question": "..... photo représente un homme",
+    "question": "______ photo représente un homme",
     "options": {
       "A": "Ce",
       "B": "Ces",
@@ -370,7 +370,7 @@
     "answer": "A"
   },
   {
-    "question": "Vingt-deux moins dix font ......",
+    "question": "Vingt-deux moins dix font ______",
     "options": {
       "A": "Trente-deux",
       "B": "un",
@@ -387,10 +387,10 @@
       "C": "Verte et blanc",
       "D": "Verte et blanche"
     },
-    "answer": "D"
+    "answer": "A"
   },
   {
-    "question": "Elle parle......professeur",
+    "question": "Elle parle ______ professeur",
     "options": {
       "A": "aux",
       "B": "à les",
@@ -410,7 +410,7 @@
     "answer": "B"
   },
   {
-    "question": "Remplace les noms soulignez avec le pronom ay dans votre réponse; Etes-vous dans la maison? Oui, nous_______",
+    "question": "Remplace les noms soulignez avec le pronom ay dans votre réponse; Etes-vous dans la maison? Oui, nous ______",
     "options": {
       "A": "y sommes",
       "B": " y suis",
@@ -420,7 +420,7 @@
     "answer": "A"
   },
   {
-    "question": " C'est la règle de mon frère ! C'est ________",
+    "question": " C'est la règle de mon frère ! C'est ______",
     "options": {
       "A": " La sienne ",
       "B": " La tienne",
@@ -440,7 +440,7 @@
     "answer": "A"
   },
   {
-    "question": "C'est un film français. Ce sont des émissions_____",
+    "question": "C'est un film français. Ce sont des émissions ______",
     "options": {
       "A": "francais",
       "B": "français",
@@ -460,7 +460,7 @@
     "answer": "A"
   },
   {
-    "question": "__________ France est loin d'ici",
+    "question": "______ France est loin d'ici",
     "options": {
       "A": " La",
       "B": " L ",
@@ -480,7 +480,7 @@
     "answer": "A"
   },
   {
-    "question": "J'invite tous ________ amis à mon mariage",
+    "question": "J'invite tous ______ amis à mon mariage",
     "options": {
       "A": "Mes",
       "B": "Notre",
@@ -490,7 +490,7 @@
     "answer": "A"
   },
   {
-    "question": " Les étudiants portent _________ sacs",
+    "question": " Les étudiants portent ______ sacs",
     "options": {
       "A": "Son",
       "B": "Leurs",
@@ -500,7 +500,7 @@
     "answer": "B"
   },
   {
-    "question": "Je bois.... thé avec mes amis",
+    "question": "Je bois ______ thé avec mes amis",
     "options": {
       "A": "de la",
       "B": "dé",
@@ -530,7 +530,7 @@
     "answer": "A"
   },
   {
-    "question": "Quarante divisé par quatre font....",
+    "question": "Quarante divisé par quatre font ______",
     "options": {
       "A": "zéro",
       "B": "dix-six",
@@ -540,7 +540,7 @@
     "answer": "D"
   },
   {
-    "question": "Je mange des bonbons. Je.... mange.",
+    "question": "Je mange des bonbons. Je ______ mange.",
     "options": {
       "A": "le",
       "B": "les",
@@ -560,7 +560,7 @@
     "answer": "C"
   },
   {
-    "question": "Les pulls sont gris. Les robes sont....",
+    "question": "Les pulls sont gris. Les robes sont ______",
     "options": {
       "A": "gris",
       "B": "grises",
@@ -570,7 +570,7 @@
     "answer": "B"
   },
   {
-    "question": "Elle n'a pas .... argent",
+    "question": "Elle n'a pas ______ argent",
     "options": {
       "A": "plenté",
       "B": "beaucoup de",
@@ -580,7 +580,7 @@
     "answer": "C"
   },
   {
-    "question": "Les vêtements font.... bruit.",
+    "question": "Les vêtements font ______ bruit.",
     "options": {
       "A": "Des",
       "B": "Dès",
@@ -590,7 +590,7 @@
     "answer": "C"
   },
   {
-    "question": "Il est ....",
+    "question": "Il est ______",
     "options": {
       "A": "Grand",
       "B": "Grandes",
