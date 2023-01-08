@@ -1198,5 +1198,205 @@
       "D": "Lassa fever"
     },
     "answer": "C"
+  },
+  {
+    "question": "Features of Sickle cell disease include ",
+    "options": {
+      "A": "delayed puberty",
+      "B": "low blood level",
+      "C": "yellowness of the eyes",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "Sexual intercourse with multiple partner",
+    "options": {
+      "A": "Increases your success rate",
+      "B": "Increases your chances of acquiring STIs",
+      "C": "Increases your respect ",
+      "D": "None of the above"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "The first case of HIV in Nigeria was reported in ",
+    "options": {
+      "A": "1986",
+      "B": "1982",
+      "C": "1996",
+      "D": "1999"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "The following are examples of opportunistic infection in HIV except ",
+    "options": {
+      "A": "Pneumonistic carrini",
+      "B": "Tuberculosis",
+      "C": "Malignacies such kaposi's sarcoma",
+      "D": "Poliomyelitis"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "Kwashiorkor is a disease resulting from lack of ",
+    "options": {
+      "A": "Protein",
+      "B": "Fat",
+      "C": "Carbohydrate",
+      "D": "Vitamins"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "The following is not a symptom of AIDS ",
+    "options": {
+      "A": "Prolong fever ",
+      "B": "Measles",
+      "C": "Swollen lymph nodes",
+      "D": "Tuberculosis"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "A confirmed HIV test results can either be ............, ........ or ............",
+    "options": {
+      "A": "average, negative or positive",
+      "B": "negative, positive or indeterminate",
+      "C": "good, bad or poor ",
+      "D": "none of the above"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Most HIV infection in children is acquired ",
+    "options": {
+      "A": "sexually ",
+      "B": "from their mother",
+      "C": "from needle stick injury ",
+      "D": "all of the above "
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Opportunistic infection are ",
+    "options": {
+      "A": "viral infections",
+      "B": "bacterial infections",
+      "C": "infections that take advantage of weak immune system",
+      "D": "difficult infections"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Gender mainstreaming is ",
+    "options": {
+      "A": "The process of assesing the implcations for women and men of planned action",
+      "B": "Clusters of learned expectations of male and females ",
+      "C": "Role sharing",
+      "D": "None of the above"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "The following are done during post test counselling ",
+    "options": {
+      "A": "Provide the patient with his/her HIV test result",
+      "B": "Help the patient understand what the results  means",
+      "C": "Encourage risk-reducing behaviour",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "Challenges faced by youths in the university entails all EXCEPT",
+    "options": {
+      "A": "Accommodation problem",
+      "B": "Transition of experience from secondary to university ",
+      "C": "Adaptation to new environment",
+      "D": "Regular attendance of lecturers "
+    },
+    "answer": "D"
+  },
+  {
+    "question": "The best method to prevent acquisition of STI is ",
+    "options": {
+      "A": "Avoid premarital sex",
+      "B": "Engage in multiple sex partnership",
+      "C": "Patronizing commercial sex workers ",
+      "D": "Engage in \"aristo\" relationship"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "The HIV types differ in the following characteristic EXCEPT",
+    "options": {
+      "A": "Rate of transmission of the virus",
+      "B": "Mode of transmission",
+      "C": "Global distribution",
+      "D": "None of the above"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "The following are the associated problems with the testes",
+    "options": {
+      "A": "Cryptorchidism",
+      "B": "Testicular torsion",
+      "C": "Germinal cell atresia",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "The two types of HIV are",
+    "options": {
+      "A": "HIV-1 and HIV-2",
+      "B": "HIV-A and HIV-B",
+      "C": "HIV-C and HIV-D",
+      "D": "Option A and B"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Gender equality means that",
+    "options": {
+      "A": "Females have more rights, freedom and opportunities than males",
+      "B": "Disparity between or among individuals due to sex",
+      "C": "Both males and females have equal rights, freedoms , conditions and opportunities for realizing their full potential",
+      "D": "All of the above"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Caffeine is an example of ",
+    "options": {
+      "A": "A stimulant",
+      "B": "A sedative",
+      "C": "A volatile inhalant ",
+      "D": "An opioid"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "The following are known menstrual problems in women EXCEPT",
+    "options": {
+      "A": "Menorrhagia and Amenorrhea",
+      "B": "Metrorrhagia and Galactorrhoea",
+      "C": "All of the above ",
+      "D": "None of the above"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Deficiency of calcium can result in the following except",
+    "options": {
+      "A": "Rickets",
+      "B": "Beriberi",
+      "C": "Enlarges wrists or ankles",
+      "D": "Stunted growth"
+    },
+    "answer": "B"
   }
 ]
