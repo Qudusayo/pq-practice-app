@@ -33,7 +33,7 @@ export default function Home() {
     <Meme />
   ) : (
     <div className={styles.Home}>
-      <h2>Select Quiz to Paractice</h2>
+      <h2>Select Quiz to Practice</h2>
       <div className={styles.ToggleControl}>
         <h2>Shuffle Questions: </h2>
         <Switch
