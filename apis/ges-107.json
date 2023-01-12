@@ -1,5 +1,345 @@
 [
   {
+    "question": "The following are important considerations for anti-retroviral therapy initiation except",
+    "options": {
+      "A": "Not necessary to involve patients in therapy decision making",
+      "B": "Willingness and readiness to begin therapy",
+      "C": "The stage of infection",
+      "D": "Knowledge of level of liver, bone marrow and kidney function"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "______ is not a genotype of sickle cell anemia",
+    "options": {
+      "A": "HbSB thal",
+      "B": "HbSD",
+      "C": "HbCD",
+      "D": "HbSC"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "______ is a state of periodic or chronic intoxication produced by repeated intake of a drug",
+    "options": {
+      "A": "Serious adverse event",
+      "B": "Drug dependence",
+      "C": "Drug addiction",
+      "D": "Pharmacovigilance"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "______ enzyme is used to convert viral RNA to viral cDNA in HIV.",
+    "options": {
+      "A": "Reversible generase",
+      "B": "Reverse transcriptase",
+      "C": "Integrase",
+      "D": "Intenerase"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "The following are clinical symptoms of a person with AIDS except ______",
+    "options": {
+      "A": "Prolonged diarrhea that lasts for more than a week",
+      "B": "recurring fever",
+      "C": "consistent headaches",
+      "D": "swollen lymph glands in armpits, groin or neck"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "______ is treatment started immediately after a person has been exposed to a disease causing agent.",
+    "options": {
+      "A": "Post-exposure killer",
+      "B": "Post-exposure prophylaxis",
+      "C": "Post-preventive medication",
+      "D": "Anaphylactic drug"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "______ is not a class of drug",
+    "options": {
+      "A": "Anti-emetic",
+      "B": "Anti-infectives",
+      "C": "Anti-coma",
+      "D": "Analgesic"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "The following are uses of drugs except ______",
+    "options": {
+      "A": "To cure disease",
+      "B": "For prophylaxis",
+      "C": "For causing disease progression",
+      "D": "For controlling symptoms"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "______ causes Bacteria vaginalis",
+    "options": {
+      "A": "Treponema vaginalis",
+      "B": "Gardnerella vaginalis",
+      "C": "Ureaplasma urealyticum",
+      "D": "Campylobacter spp."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "The following factors contribute to sexually transmitted infections except",
+    "options": {
+      "A": "Multiple sexual partners",
+      "B": "Sexual contact with high risk persons",
+      "C": "Safe blood transfusion",
+      "D": "Intraveinous drug use"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "The following are elements in the chain of infection except ______",
+    "options": {
+      "A": "Reservoir",
+      "B": "Chain disruptor",
+      "C": "Susceptible host",
+      "D": "Infectious agent"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "The menstrual cycle is about ______ days in length",
+    "options": {
+      "A": "27days",
+      "B": "28days",
+      "C": "29days",
+      "D": "30days"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Some theoretical perspectives that explain social order in the society include all of the following except",
+    "options": {
+      "A": "Interactionalist theories",
+      "B": "Marxist theories",
+      "C": "Functionalist theories",
+      "D": "Activists theories"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "Sickle cell disease is prevented by ______",
+    "options": {
+      "A": "Anti-sickle cell drugs",
+      "B": "Anti-crisis drugs",
+      "C": "Vaccine",
+      "D": "Genetic counselling for intending couples"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "The following are opportunistic infections except ______",
+    "options": {
+      "A": "Pnemonistic carini",
+      "B": "Cytomegalovirus",
+      "C": "Hepatitis B Virus",
+      "D": "Tuberculosis"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "The conscious development of objectives, plans and programmes in an organization with no effort to recognize or incorporate gender issues is called ______",
+    "options": {
+      "A": "Gender assault",
+      "B": "Gender blindness",
+      "C": "Gender drift",
+      "D": "Gender inequality"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "An example of opportunistic bacterial disease in HIV patients is ______",
+    "options": {
+      "A": "Gonorrhea",
+      "B": "Ureaplasma urealyticum",
+      "C": "Gardnerella vaginalis",
+      "D": "Mycobacterium Avium complex"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "______ results from transmission of pathogens due to medical procedures such as injection or transplantation of infected material",
+    "options": {
+      "A": "Catastrophic transmission",
+      "B": "Medical transmission",
+      "C": "Vertical transmission",
+      "D": "Iatrogenic transmission"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "______ is the process of assessing implications for women and men of planned action including legislation, policies or grogrammes in any area and at any level.",
+    "options": {
+      "A": "Gender support",
+      "B": "Gender mainstreaming",
+      "C": "Effective inclusion",
+      "D": "Gender recourse"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Some factors that influence host infectiousness include all of the following except",
+    "options": {
+      "A": "CD4+ cell count",
+      "B": "CD8+ cell count",
+      "C": "Vaginal sex during menstruation",
+      "D": "Stage of infection"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Characteristic features of sickle cell disease includes all of the following except ______",
+    "options": {
+      "A": "Protuberant abdomen",
+      "B": "Small body size for age",
+      "C": "Obesity",
+      "D": "Thin limbs and overriding teeth"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "All of the following are your role on sexual harassment except ______",
+    "options": {
+      "A": "Not be a perpetuator",
+      "B": "Have a tolerable limit for sexual harassment",
+      "C": "Make suggesstions to improve sexual harassment in the workplace",
+      "D": "Report any sexual harassment case whether or not you are the victim"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "______ is not an example of irrational use of drugs",
+    "options": {
+      "A": "Over prescribing",
+      "B": "Self-medication",
+      "C": "Underuse of antibiotics",
+      "D": "Appropriate dose and dosage"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "______ is not a reason for using drugs.",
+    "options": {
+      "A": "To prevent disease",
+      "B": "To activate disease progresssion",
+      "C": "To arrest disease progression",
+      "D": "To eliminate symptoms"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "______ results from inheritance of two abnormal allelelormorphic genes controlling formation of haemoglobin",
+    "options": {
+      "A": "Haemophilia",
+      "B": "Allelemorphia",
+      "C": "Sickle Cell Disease",
+      "D": "Stroke"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is not a function of the reproductive system ?",
+    "options": {
+      "A": "Transportation and sustenance of the cells",
+      "B": "Nurturing the developing offspring",
+      "C": "Charging the egg",
+      "D": "Production of hormones"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "______ is the monthly series of events associated with the release of a secondary oocyte.",
+    "options": {
+      "A": "Oogenesis",
+      "B": "Menstrual cycle",
+      "C": "Uterine cycle",
+      "D": "Ovarian cycle"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "The following are considered as self- medication except ______",
+    "options": {
+      "A": "Use of non-authorized healers",
+      "B": "Use of herbal medicine",
+      "C": "Regular involvement in aerobic exercise",
+      "D": "Use of preparations from family and friends"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "The full meaning of HAART is ______",
+    "options": {
+      "A": "High Anterior Antecedence of Reversible Transmission",
+      "B": "Having Antiretroviral Active Reviral Treatment",
+      "C": "Highly Activated Anti-retrovirus Treatment",
+      "D": "Highly Active Anti-retroviral Therapy"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "The common type of HIV found in West Africa is ______",
+    "options": {
+      "A": "HIV-1",
+      "B": "HIV-2",
+      "C": "HIV-3",
+      "D": "HIV-4"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "The following are examples of genital ulcer diseases except ______",
+    "options": {
+      "A": "Granuloma inguinale",
+      "B": "Lymphogranuloma venereum",
+      "C": "Genital warts",
+      "D": "Herpes genitalis"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "A common HIV-associated malignancy is ______",
+    "options": {
+      "A": "Hepatocellular carcinoma",
+      "B": "Kaposi’s sarcoma",
+      "C": "Ovarian cancer",
+      "D": "Cervical tumor"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "The following are non-communicable diseases except ______",
+    "options": {
+      "A": "Stroke",
+      "B": "Cancer",
+      "C": "Ischemic heart disease",
+      "D": "Hypertension"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "The rigid or over-simplified definition of a group of people in which all members of the group are labelled with similar characteristics is called",
+    "options": {
+      "A": "gender bias",
+      "B": "gender stereotype",
+      "C": "gender restriction",
+      "D": "gender clause"
+    },
+    "answer": "B"
+  },
+  {
     "question": "Dental Caries can be caused by excessive intake of ",
     "options": {
       "A": "Meat and Fish",
@@ -1398,5 +1738,53 @@
       "D": "Stunted growth"
     },
     "answer": "B"
+  },
+  {
+    "question": "AIDS occurs when number of CD4+ T cells increase",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Infectivity and virulence of HIV does not relate directly to transmission",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "HIV replicates rapidly and no drugs can decrease the virus load",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Youth subcultures was in existence before 1950.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Gonorrhea and Bacterial vaginalis which cause ulcerative diseases are risk factors for HIV transmission",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In people living with HIV,the virus readily crosses the placenta to infect the foetus",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
   }
 ]
