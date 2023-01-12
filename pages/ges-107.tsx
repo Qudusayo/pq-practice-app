@@ -9,19 +9,23 @@ import localforage from "localforage";
 import Meme from "../components/Meme/Meme";
 import { useSwitchContext } from "../context/shuffleContext";
 import { shuffle } from "../functions/shuffle";
+import Link from "next/link";
 
 export default function Ges107({
-  practiceQuestions,
+  practiceQuestionsData,
 }: {
-  practiceQuestions: questionsInterface[];
+  practiceQuestionsData: questionsInterface[];
 }) {
   const [scoreBoard, setScoreBoard] = useState({
     wrongChoices: 0,
     rightChoices: 0,
   });
-  const { shuffled } = useSwitchContext()!;
+  const { shuffled, selection } = useSwitchContext()!;
   const [completedQuiz, setCompletedQuiz] = useState(false);
   const [isValidUser, setIsValidUser] = useState<boolean | null>(null);
+  const [practiceQuestions, setPracticeQuestions] = useState<
+    questionsInterface[]
+  >([]);
 
   useEffect(() => {
     localforage
@@ -34,6 +38,22 @@ export default function Ges107({
         }
       });
   }, []);
+
+  useEffect(() => {
+    let seletions = selection.sort((a, b) => a - b);
+    let questionSelections: questionsInterface[] = [];
+    for (let index = 0; index < seletions.length; index++) {
+      let questionSliceStart = (seletions[index] - 1) * 30;
+      questionSelections.push(
+        ...practiceQuestionsData.slice(
+          questionSliceStart,
+          questionSliceStart + 30
+        )
+      );
+    }
+
+    setPracticeQuestions(questionSelections);
+  }, [practiceQuestionsData]);
 
   const handleQuizSubmission = (
     wrongChoices: number,
@@ -76,8 +96,10 @@ export default function Ges107({
             wrongSelection={scoreBoard.wrongChoices}
             rightSelection={scoreBoard.rightChoices}
           />
-          <div className={styles.Button}>
-            <button onClick={resetEntry}>Restart Quiz</button>
+          <div className={styles.Buttons}>
+            <Link href={"/"} className={styles.ButtonsLink}>
+              Back to Home
+            </Link>
           </div>
         </>
       )}
@@ -92,7 +114,7 @@ export async function getServerSideProps() {
 
   return {
     props: {
-      practiceQuestions: questionsResponse.data,
+      practiceQuestionsData: questionsResponse.data,
     },
   };
 }
