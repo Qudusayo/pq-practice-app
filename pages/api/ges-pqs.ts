@@ -9,8 +9,8 @@ type Data = {
   options: {
     A: string;
     B: string;
-    C: string;
-    D: string;
+    C?: string;
+    D?: string;
   };
   answer: string;
 };
