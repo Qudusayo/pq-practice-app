@@ -5,8 +5,6 @@ import { useEffect, useState } from "react";
 import axios from "axios";
 
 import styles from "./../styles/Home.module.scss";
-import localforage from "localforage";
-import Meme from "../components/Meme/Meme";
 import { useSwitchContext } from "../context/shuffleContext";
 import { shuffle } from "../functions/shuffle";
 import Link from "next/link";
@@ -22,22 +20,9 @@ export default function Ges107({
   });
   const { shuffled, selection } = useSwitchContext()!;
   const [completedQuiz, setCompletedQuiz] = useState(false);
-  const [isValidUser, setIsValidUser] = useState<boolean | null>(null);
   const [practiceQuestions, setPracticeQuestions] = useState<
     questionsInterface[]
   >([]);
-
-  useEffect(() => {
-    localforage
-      .getItem(process.env.NEXT_PUBLIC_ENTRY_KEY!)
-      .then(function (value) {
-        if (value === process.env.NEXT_PUBLIC_ENTRY_VALUE) {
-          setIsValidUser(true);
-        } else {
-          setIsValidUser(false);
-        }
-      });
-  }, []);
 
   useEffect(() => {
     let seletions = selection.sort((a, b) => a - b);
@@ -52,7 +37,7 @@ export default function Ges107({
       );
     }
 
-    setPracticeQuestions(questionSelections);
+    setPracticeQuestions(shuffle(questionSelections));
   }, [practiceQuestionsData]);
 
   const handleQuizSubmission = (
@@ -66,27 +51,11 @@ export default function Ges107({
     });
   };
 
-  const resetEntry = () => {
-    setCompletedQuiz(false);
-    setScoreBoard({
-      wrongChoices: 0,
-      rightChoices: 0,
-    });
-  };
-
-  if (isValidUser === null) {
-    return "Loading...";
-  }
-
-  return !isValidUser ? (
-    <Meme />
-  ) : (
+  return (
     <>
       {!completedQuiz && (
         <Quiz
-          practiceQuestions={
-            shuffled ? shuffle(practiceQuestions) : practiceQuestions
-          }
+          practiceQuestions={practiceQuestions}
           handleQuizSubmission={handleQuizSubmission}
         />
       )}

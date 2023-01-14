@@ -23,7 +23,7 @@ export default function Quiz({
 
   useEffect(() => {
     setQuestions(practiceQuestions);
-  }, []);
+  }, [practiceQuestions]);
 
   useEffect(() => {
     if (questions.length) {
@@ -92,6 +92,8 @@ export default function Quiz({
       }
     });
   };
+
+  if (!practiceQuestions.length) return <>Loading.....</>;
 
   return (
     <div className={styles.Quiz}>

@@ -1,39 +1,13 @@
 import Link from "next/link";
 import styles from "./../styles/Home.module.scss";
-import { useEffect, useState } from "react";
-import localForage from "localforage";
-import Meme from "../components/Meme/Meme";
-import Switch from "../components/Switch/Switch";
 import { useSwitchContext } from "../context/shuffleContext";
 import SectionSelector from "../components/SectionSelector/SectionSelector";
 
 export default function Home() {
-  const [isValidUser, setIsValidUser] = useState<boolean | null>(null);
   // const { shuffled, shuffleToggler } = useSwitchContext()!;
   const { selection, toggleSelection } = useSwitchContext()!;
 
-  useEffect(() => {
-    async function verifyAuth() {
-      let storedToken = await localForage.getItem(
-        process.env.NEXT_PUBLIC_ENTRY_KEY!
-      );
-      if (storedToken === process.env.NEXT_PUBLIC_ENTRY_VALUE) {
-        setIsValidUser(true);
-      } else {
-        setIsValidUser(false);
-      }
-    }
-
-    verifyAuth();
-  }, []);
-
-  if (isValidUser === null) {
-    return "Loading...";
-  }
-
-  return !isValidUser ? (
-    <Meme />
-  ) : (
+  return (
     <div className={styles.Home}>
       <h2>PRACTICE GES-107</h2>
       {/* <div className={styles.ToggleControl}>
