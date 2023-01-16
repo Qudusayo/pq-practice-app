@@ -90,6 +90,11 @@
       }
     }
   }
+  .button{
+    display: flex;
+    justify-content: space-between;
+
+  }
 
   button {
     background-color: #249efb;
@@ -100,7 +105,7 @@
     margin-right: 9px;
     width: 12em;
     height: 4em;
-    margin-left: auto;
+    margin-left: 0px;
     outline: none;
     border: none;
 

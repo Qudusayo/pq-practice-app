@@ -36,7 +36,7 @@ export default function Ges107({
         )
       );
     }
-
+    
     setPracticeQuestions(shuffle(questionSelections));
   }, [practiceQuestionsData]);
 

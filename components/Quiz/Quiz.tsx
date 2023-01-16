@@ -24,12 +24,22 @@ export default function Quiz({
   useEffect(() => {
     setQuestions(practiceQuestions);
   }, [practiceQuestions]);
+  useEffect(() => {
+    console.log(entry, userEntries);
+  }, [entry, userEntries]);
 
   useEffect(() => {
     if (questions.length) {
       let options = Object.values(questions[entry]?.options);
-      setEntryOptions(shuffle(options));
+      if (entry !== userEntries.length) {
+        setEntryOptions(options);
+      }
+      else{
+        setEntryOptions(shuffle(options));
+      }
     }
+  
+  
   }, [entry, questions]);
 
   const checkSelection = (userSelectedOption: string) => {
@@ -49,7 +59,9 @@ export default function Quiz({
       },
     ]);
   };
-
+ const showPrevEntry =()=>{
+  setEntry((prevEntry) => (prevEntry -= 1));
+ };
   const showNextEntry = () => {
     setEntry((prevEntry) => (prevEntry += 1));
   };
@@ -76,7 +88,7 @@ export default function Quiz({
     );
     return handleQuizSubmission(userGrade.wrongChoices, userGrade.rightChoices);
   };
-
+ 
   const backToHome = () => {
     Swal.fire({
       title: "Are you sure?",
@@ -153,6 +165,14 @@ export default function Quiz({
           })
         )}
       </div>
+<div  className={styles.button}>
+      <button 
+        type="button"
+        onClick={showPrevEntry}
+        disabled={entry === 0}
+        >
+        Previous
+      </button>
       <button
         type="button"
         onClick={entry + 1 === questions.length ? finishQuiz : showNextEntry}
@@ -161,6 +181,12 @@ export default function Quiz({
       >
         {entry + 1 === questions.length ? "Finish" : "Next"}
       </button>
+
+
+</div>
+
     </div>
+
+    
   );
 }
