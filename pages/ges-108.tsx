@@ -58,9 +58,7 @@ export default function Ges108({
     return "Loading...";
   }
 
-  return !isValidUser ? (
-    <Meme />
-  ) : (
+  return (
     <>
       {!completedQuiz && (
         <Quiz
