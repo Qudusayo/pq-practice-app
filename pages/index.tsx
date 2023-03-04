@@ -29,18 +29,18 @@ export default function Home() {
         >
           Select practice sector
         </span>
-        <SectionSelector
+        {/* <SectionSelector
           selections={selection}
           toggleSelection={toggleSelection}
-        />
+        /> */}
       </div>
       <div className={styles.Buttons}>
-        <Link href={"/ges-107"} className={styles.ButtonsLink}>
+        {/* <Link href={"/ges-107"} className={styles.ButtonsLink}>
           START GES 107
-        </Link>
-        {/* <Link href={"/ges-108"} className={styles.ButtonsLink}>
-          GES 108
         </Link> */}
+        <Link href={"/ges-108"} className={styles.ButtonsLink}>
+          GES 108
+        </Link>
       </div>
     </div>
   );
