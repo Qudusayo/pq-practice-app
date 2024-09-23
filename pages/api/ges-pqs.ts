@@ -8,8 +8,8 @@ import ges301Qs from "../../apis/ges-301.json";
 type Data = {
   question: string;
   options: {
-    A: string;
-    B: string;
+    A?: string;
+    B?: string;
     C?: string;
     D?: string;
   };
