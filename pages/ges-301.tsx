@@ -22,23 +22,23 @@ export default function Ges301({
   const [completedQuiz, setCompletedQuiz] = useState(false);
   const [practiceQuestions, setPracticeQuestions] = useState<
     questionsInterface[]
-  >([]);
+  >(practiceQuestionsData);
 
-  useEffect(() => {
-    let seletions = selection.sort((a, b) => a - b);
-    let questionSelections: questionsInterface[] = [];
-    for (let index = 0; index < seletions.length; index++) {
-      let questionSliceStart = (seletions[index] - 1) * 30;
-      questionSelections.push(
-        ...practiceQuestionsData.slice(
-          questionSliceStart,
-          questionSliceStart + 30
-        )
-      );
-    }
+  // useEffect(() => {
+  //   let seletions = selection.sort((a, b) => a - b);
+  //   let questionSelections: questionsInterface[] = [];
+  //   for (let index = 0; index < seletions.length; index++) {
+  //     let questionSliceStart = (seletions[index] - 1) * 30;
+  //     questionSelections.push(
+  //       ...practiceQuestionsData.slice(
+  //         questionSliceStart,
+  //         questionSliceStart + 30
+  //       )
+  //     );
+  //   }
     
-    setPracticeQuestions(shuffle(questionSelections));
-  }, [practiceQuestionsData]);
+  //   setPracticeQuestions(shuffle(questionSelections));
+  // }, [practiceQuestionsData]);
 
   const handleQuizSubmission = (
     wrongChoices: number,
