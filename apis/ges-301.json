@@ -1,0 +1,932 @@
+[
+  {
+    "question": "What is the best way to avoid distractions while working?",
+    "options": {
+      "A": "Keep your phone on",
+      "B": "Check email frequently",
+      "C": "Shut down email and chat",
+      "D": "Multitask"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "How should you handle social media chats for non-trivial matters?",
+    "options": {
+      "A": "Respond immediately",
+      "B": "Arrange a voice call",
+      "C": "Ignore them",
+      "D": "Send a quick text"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Why is it important to plan phone calls in advance?",
+    "options": {
+      "A": "To avoid interruptions",
+      "B": "To waste time",
+      "C": "To procrastinate",
+      "D": "To be unprepared"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What are the two key questions to evaluate if a task is worth doing?",
+    "options": {
+      "A": "Is it urgent? Is it important?",
+      "B": "Is it difficult? Is it rewarding?",
+      "C": "Will it move the business forward? Is it the best use of time?",
+      "D": "Is it enjoyable? Is it challenging?"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What is the most common time management mistake?",
+    "options": {
+      "A": "Overplanning",
+      "B": "Underestimating tasks",
+      "C": "Starting the day without a plan",
+      "D": "Procrastinating"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What is the most effective way to stay motivated and productive?",
+    "options": {
+      "A": "Procrastinating until the last minute",
+      "B": "Planning your day with time slots",
+      "C": "Working long hours without breaks",
+      "D": "Multitasking"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Why is it important to set deadlines for your tasks?",
+    "options": {
+      "A": "To procrastinate",
+      "B": "To increase stress",
+      "C": "To stay motivated and focused",
+      "D": "To waste time"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Which tasks should you prioritize in your daily schedule?",
+    "options": {
+      "A": "The easiest tasks",
+      "B": "The most enjoyable tasks",
+      "C": "The most important tasks",
+      "D": "The tasks that take the least time"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What is the main disadvantage of multitasking?",
+    "options": {
+      "A": "It increases productivity",
+      "B": "It reduces stress",
+      "C": "It wastes time",
+      "D": "It improves focus"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Why should you avoid switching between tasks frequently?",
+    "options": {
+      "A": "It takes time to get back up to speed",
+      "B": "It reduces focus and concentration",
+      "C": "It increases stress",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "What is the best way to plan your day?",
+    "options": {
+      "A": "At the beginning of the week",
+      "B": "At the end of the previous day",
+      "C": "In the morning",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "How can you ensure that you accomplish the most important tasks each day?",
+    "options": {
+      "A": "Prioritize them",
+      "B": "Delegate them to others",
+      "C": "Procrastinate",
+      "D": "Multitask"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the key to effective time management?",
+    "options": {
+      "A": "Working long hours",
+      "B": "Avoiding breaks",
+      "C": "Prioritizing tasks and focusing",
+      "D": "Multitasking"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What happens if you neglect any of the seven vital areas of your life?",
+    "options": {
+      "A": "It has no impact",
+      "B": "It can jeopardize your overall success",
+      "C": "It improves your focus",
+      "D": "It reduces stress"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "How can a disorganized workspace affect your productivity?",
+    "options": {
+      "A": "It can increase focus",
+      "B": "It can reduce distractions",
+      "C": "It can waste time",
+      "D": "It has no impact"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What is the key to effective time management?",
+    "options": {
+      "A": "Doing things quickly",
+      "B": "Doing the right things at the right time",
+      "C": "Avoiding all distractions",
+      "D": "Working long hours"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "How can you avoid being a victim of other people's time management issues?",
+    "options": {
+      "A": "Delegate all tasks",
+      "B": "Avoid communication",
+      "C": "Have a plan of action daily",
+      "D": "Procrastinate"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What is the significance of taking control of your time?",
+    "options": {
+      "A": "It allows you to achieve your goals",
+      "B": "It reduces stress",
+      "C": "It improves your overall well-being",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "What are the seven vital areas of life that need to be balanced?",
+    "options": {
+      "A": "Health, Family, Financial, Intellectual, Social, Professional, and Spiritual",
+      "B": "Work, Home, School, Social, Financial, Physical, and Mental",
+      "C": "Career, Relationships, Hobbies, Health, Finances, Education, and Spirituality",
+      "D": "None of the above"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why is it important to avoid working through lunch?",
+    "options": {
+      "A": "It can lead to burnout",
+      "B": "It can reduce productivity",
+      "C": "It can negatively impact health",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "Which of these is not part of Dr Donald Wetmore Time Management Mistakes",
+    "options": {
+      "A": "Starting your day without a plan of action",
+      "B": "Not getting enough sleep",
+      "C": "Getting out of balance with your life",
+      "D": "Not improving on skill"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "What is essential to the success of a task or project",
+    "options": {
+      "A": "Time invested",
+      "B": "Skill used",
+      "C": "Big aspirations and dreams",
+      "D": "Great background research"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the most effective way to utilize time?",
+    "options": {
+      "A": "By working long hours",
+      "B": "By multitasking",
+      "C": "By using aggressive time management strategies",
+      "D": "By procrastinating"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What is one of the effective ways to manage time?",
+    "options": {
+      "A": "Time blocks",
+      "B": "Multitasking",
+      "C": "Procrastination",
+      "D": "Working long hours"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What does \"productive\" mean in the context of time management?",
+    "options": {
+      "A": "Doing something enjoyable",
+      "B": "Doing something difficult",
+      "C": "Doing something that results in income",
+      "D": "Doing something that takes a long time"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Why is it important to disconnect from technology?",
+    "options": {
+      "A": "To avoid distractions",
+      "B": "To save money",
+      "C": "To improve sleep",
+      "D": "To reduce stress"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the main disadvantage of multitasking?",
+    "options": {
+      "A": "It increases productivity",
+      "B": "It reduces focus",
+      "C": "It saves time",
+      "D": "It improves efficiency"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What are \"time vampires\"?",
+    "options": {
+      "A": "People who waste your time",
+      "B": "Productive individuals",
+      "C": "Efficient time managers",
+      "D": "People who help you manage your time"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the purpose of a to-do list?",
+    "options": {
+      "A": "To procrastinate",
+      "B": "To organize tasks",
+      "C": "To waste time",
+      "D": "To delegate tasks"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "How can you avoid becoming a victim of \"time vampires\"?",
+    "options": {
+      "A": "Say \"yes\" to everything",
+      "B": "Be assertive and set boundaries",
+      "C": "Procrastinate",
+      "D": "Delegate tasks"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which is not a strategy for aggressive time management?",
+    "options": {
+      "A": "Time blocks",
+      "B": "Being a Yes man/woman",
+      "C": "One productive thing a day",
+      "D": "Disconnect"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the best way to say \"no\" to unnecessary requests?",
+    "options": {
+      "A": "Be rude and abrupt",
+      "B": "Be apologetic and avoid confrontation",
+      "C": "Be firm and polite",
+      "D": "Ignore the request"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "How does your attention span affect your productivity?",
+    "options": {
+      "A": "No impact",
+      "B": "It can hinder productivity",
+      "C": "It can improve productivity",
+      "D": "It depends on the task"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What is the key to effective time management?",
+    "options": {
+      "A": "Prioritization",
+      "B": "Procrastination",
+      "C": "Scheduling",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "What are the benefits of using the \"do it now\" technique?",
+    "options": {
+      "A": "It helps avoid procrastination",
+      "B": "It can boost productivity",
+      "C": "It can reduce stress",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "What is the important variable in time management?",
+    "options": {
+      "A": "What can I do now?",
+      "B": "Human attention",
+      "C": "Motivation",
+      "D": "Doing easy tasks"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the average duration of full concentration?",
+    "options": {
+      "A": "10 minutes",
+      "B": "20 minutes",
+      "C": "30 minutes",
+      "D": "40 minutes"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "How can you improve your attention span?",
+    "options": {
+      "A": "Eat a healthy diet",
+      "B": "Distract yourself constantly",
+      "C": "Do the basic things",
+      "D": "All of the above"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is not part of the Basic Time Management Systems?",
+    "options": {
+      "A": "Prioritize",
+      "B": "Doing the things you fear the most first",
+      "C": "Using to do list",
+      "D": "Contributing ideas"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "How long can it take to learn and implement a new habit?",
+    "options": {
+      "A": "2-4 weeks",
+      "B": "6-8 weeks",
+      "C": "Up to 12 weeks",
+      "D": "More than 14 weeks"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the key difference between creativity and innovation?",
+    "options": {
+      "a": "Creativity involves doing new things, while innovation involves thinking new things.",
+      "b": "Creativity involves thinking new things, while innovation involves doing new things.",
+      "c": "Both creativity and innovation involve thinking new things.",
+      "d": "Both creativity and innovation involve doing new things."
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Why is creativity important in business development?",
+    "options": {
+      "a": "It helps in generating better profits.",
+      "b": "It aids in finding new ways to look at problems and opportunities.",
+      "c": "It ensures success in the global market.",
+      "d": "It helps to lower costs and increase efficiency."
+    },
+    "answer": "b"
+  },
+  {
+    "question": "According to the text, what is innovation?",
+    "options": {
+      "a": "Finding new customers for a business.",
+      "b": "Applying creative solutions to enrich people’s lives.",
+      "c": "Starting a new business with no prior experience.",
+      "d": "Maximizing profits through new products."
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Ted Levitts defines innovation as:",
+    "options": {
+      "a": "Transforming ideas into tangible products.",
+      "b": "Creating new ideas.",
+      "c": "Thinking about doing old things in a new way.",
+      "d": "Designing products for consumers."
+    },
+    "answer": "a"
+  },
+  {
+    "question": "In entrepreneurship, why is it essential to be flexible enough to discard ideas that don’t work?",
+    "options": {
+      "a": "To avoid losses in business.",
+      "b": "To adapt and learn from failure.",
+      "c": "To find the quickest solution possible.",
+      "d": "To outcompete others in the industry."
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Why are traditional assumptions about how things \"ought to be\" harmful to creativity?",
+    "options": {
+      "a": "They provide a clear guideline for new ideas.",
+      "b": "They limit the mind and prevent new ideas from flourishing.",
+      "c": "They help ensure that ideas are implemented properly.",
+      "d": "They increase business efficiency."
+    },
+    "answer": "b"
+  },
+  {
+    "question": "What is a paradigm, according to the text?",
+    "options": {
+      "a": "A new way of thinking.",
+      "b": "A preconceived idea of how the world should be.",
+      "c": "A creative solution to a problem.",
+      "d": "A method of business innovation."
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Why are children considered more creative than adults in the text?",
+    "options": {
+      "a": "They have better access to education.",
+      "b": "They are not yet brainwashed by societal conformity.",
+      "c": "They have more time to be creative.",
+      "d": "They are encouraged to solve problems creatively."
+    },
+    "answer": "b"
+  },
+  {
+    "question": "What is the relationship between innovation and economic growth, according to the text?",
+    "options": {
+      "a": "Innovation destroys economic growth.",
+      "b": "Innovation catalyzes growth by introducing new products and services.",
+      "c": "Innovation has no significant impact on growth.",
+      "d": "Innovation slows growth by increasing competition."
+    },
+    "answer": "b"
+  },
+  {
+    "question": "What is meant by “creative destruction” in the context of innovation?",
+    "options": {
+      "a": "Destroying old businesses to create new ones.",
+      "b": "The process of outmoding old concepts and technologies.",
+      "c": "Reducing competition through new innovations.",
+      "d": "Lowering prices to eliminate competition."
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Why is it important for businesses to continuously innovate?",
+    "options": {
+      "a": "To increase costs for competitors.",
+      "b": "To keep up with consumer expectations and market demands.",
+      "c": "To simplify their internal operations.",
+      "d": "To minimize employee creativity."
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Why is just one creative solution not enough for long-term business success?",
+    "options": {
+      "a": "It doesn’t guarantee survival in a competitive market.",
+      "b": "Competitors may copy the idea.",
+      "c": "Customers may not like the idea.",
+      "d": "It might not be profitable immediately."
+    },
+    "answer": "a"
+  },
+  {
+    "question": "How can small companies use creativity and innovation to compete against larger companies?",
+    "options": {
+      "a": "By focusing on reducing costs.",
+      "b": "By creating effective comparative advantages.",
+      "c": "By copying large companies' products.",
+      "d": "By increasing their product prices."
+    },
+    "answer": "b"
+  },
+  {
+    "question": "In business and economics, innovation is considered a:",
+    "options": {
+      "a": "Catalyst for growth.",
+      "b": "Barrier to entry.",
+      "c": "Costly activity.",
+      "d": "Temporary solution."
+    },
+    "answer": "a"
+  },
+  {
+    "question": "What does the term “spin-out” refer to in the context of innovation?",
+    "options": {
+      "a": "A business model that fails.",
+      "b": "A new company formed from an idea within an existing organization.",
+      "c": "The sudden closure of a business.",
+      "d": "A rapid expansion into new markets."
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Which of the following sectors can innovate, according to the text?",
+    "options": {
+      "a": "Only manufacturing companies.",
+      "b": "Universities, hospitals, and local governments.",
+      "c": "Only technology companies.",
+      "d": "Only private businesses."
+    },
+    "answer": "b"
+  },
+  {
+    "question": "What is one reason entrepreneurs should be bold when trying new ideas?",
+    "options": {
+      "a": "To impress investors.",
+      "b": "To avoid learning from competitors.",
+      "c": "To adapt to a fiercely competitive global economy.",
+      "d": "To reduce business operations."
+    },
+    "answer": "c"
+  },
+  {
+    "question": "What is one risk of incremental changes to products or processes?",
+    "options": {
+      "a": "Competitors may surpass you.",
+      "b": "It is often too expensive.",
+      "c": "It lacks consumer interest.",
+      "d": "It avoids major breakthroughs."
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Why are past experiences considered blocks to creative thinking?",
+    "options": {
+      "a": "They prevent individuals from remembering solutions.",
+      "b": "They limit how people perceive new opportunities.",
+      "c": "They simplify the decision-making process.",
+      "d": "They allow people to avoid risky ventures."
+    },
+    "answer": "b"
+  },
+  {
+    "question": "What role does creativity play in maintaining leadership positions in business?",
+    "options": {
+      "a": "It keeps costs low.",
+      "b": "It ensures that a company can consistently offer new solutions.",
+      "c": "It simplifies management tasks.",
+      "d": "It helps reduce employee turnover."
+    },
+    "answer": "b"
+  },
+  {
+    "question": "What is the role of paradigms in creativity and innovation?",
+    "options": {
+      "A": "They promote creativity and innovation.",
+      "B": "They hinder creativity and innovation.",
+      "C": "They have no impact on creativity and innovation.",
+      "D": "They are essential for success."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "How can entrepreneurs overcome the fear of failure?",
+    "options": {
+      "A": "By avoiding risks",
+      "B": "By focusing on past successes",
+      "C": "By learning from mistakes",
+      "D": "By giving up on their ideas"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What is the role of diversity and inclusion in fostering creativity?",
+    "options": {
+      "A": "It limits creativity",
+      "B": "It promotes conformity",
+      "C": "It encourages groupthink",
+      "D": "It sparks new ideas and perspectives"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "Which of the following is NOT listed as a source of innovation by Peter F. Drucker?",
+    "options": {
+      "A": "Changes in industry structure",
+      "B": "Changes in human perception",
+      "C": "Internet development",
+      "D": "Changes in climate"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "Who identified end-user innovation as the most important source of innovation?",
+    "options": {
+      "A": "Peter F. Drucker",
+      "B": "Eric Von Hippel",
+      "C": "Joseph F. Engelberger",
+      "D": "Ted Levitts"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which source of innovation involves developing products for personal or in house use?",
+    "options": {
+      "A": "Manufacturer innovation",
+      "B": "Customer innovation",
+      "C": "End-user innovation",
+      "D": "Open innovation"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is a requirement for innovation according to Joseph F. Engelberger?",
+    "options": {
+      "A": "A market strategy",
+      "B": "A recognized need",
+      "C": "A large workforce",
+      "D": "A marketing plan"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the traditionally recognized source of innovation?",
+    "options": {
+      "A": "Manufacturer innovation",
+      "B": "User innovation",
+      "C": "Government innovation",
+      "D": "Supplier innovation"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What role does R&D play in innovation?",
+    "options": {
+      "A": "It spurs formal research but not informal modifications",
+      "B": "It is only useful for incremental innovations",
+      "C": "It helps drive patents and breakthrough innovations",
+      "D": "It is only relevant in government sectors"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "According to the text, more radical innovations typically emerge from:",
+    "options": {
+      "A": "Formal research and development (R&D)",
+      "B": "On-the-job practice",
+      "C": "Social networks",
+      "D": "End-user innovation"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In what way can firms incorporate users into the innovation process?",
+    "options": {
+      "A": "By limiting user feedback",
+      "B": "Through focus groups and lead user approaches",
+      "C": "By outsourcing production to other companies",
+      "D": "By providing free products to users"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the key factor that drives much of user innovation?",
+    "options": {
+      "A": "Competitors' performance",
+      "B": "Products that do not meet user needs",
+      "C": "Market regulations",
+      "D": "Changing economic conditions"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is a recognized characteristic of end-user innovation?",
+    "options": {
+      "A": "It primarily focuses on selling to a large audience",
+      "B": "It originates from users solving their own problems",
+      "C": "It is developed only through government funding",
+      "D": "It is unrelated to formal R&D practices"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Joseph F. Engelberger is known for his work in:",
+    "options": {
+      "A": "End-user innovation",
+      "B": "Robotics engineering",
+      "C": "Information technology",
+      "D": "Social networks"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Why might firms include customers in innovation through workshops?",
+    "options": {
+      "A": "To increase their financial support",
+      "B": "To improve product-market fit by learning from users",
+      "C": "To limit user influence on development",
+      "D": "To outsource innovation tasks"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following can be a result of end-user innovation?",
+    "options": {
+      "A": "Spin-out companies",
+      "B": "Mergers and acquisitions",
+      "C": "Government policy changes",
+      "D": "Decreased competition"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In Peter F. Drucker's view, which of the following contributes to innovation?",
+    "options": {
+      "A": "Changes in cultural background",
+      "B": "Decreased scientific knowledge",
+      "C": "Reduced focus on market research",
+      "D": "Global political shifts"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What does Joseph Schumpeter’s concept of “creative destruction” emphasize?",
+    "options": {
+      "A": "Innovating without any financial support",
+      "B": "The need for constant incremental innovation",
+      "C": "Disrupting existing systems to create better alternatives",
+      "D": "Re-using old technologies to meet new demands"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What is one of the key drivers for innovation in corporations according to Davila et al. (2006)?",
+    "options": {
+      "A": "Cost reduction",
+      "B": "Re-engineering processes",
+      "C": "Growth objectives",
+      "D": "Employee retention"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "According to the life cycle of innovation, what does the S-curve map?",
+    "options": {
+      "A": "Growth of employee skills over time",
+      "B": "Growth of revenue or productivity over time",
+      "C": "The decline of products over time",
+      "D": "The lifecycle of market competitors"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What happens in the early stage of a particular innovation’s life cycle?",
+    "options": {
+      "A": "Growth is extremely fast",
+      "B": "Growth is slow as the product establishes itself",
+      "C": "The product enters mass production",
+      "D": "The product is discontinued"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is a common problem regarding creativity in most organizations?",
+    "options": {
+      "A": "Employees are expected to be overly creative",
+      "B": "Employees are not expected to be creative",
+      "C": "Most companies overemphasize creative exercises",
+      "D": "Creativity is seen as a detriment to productivity"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What do many companies fail to do regarding creativity among employees?",
+    "options": {
+      "A": "Encourage innovation",
+      "B": "Foster an environment that encourages creativity",
+      "C": "Offer financial incentives for creative ideas",
+      "D": "Allow employees to work alone"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "How can creativity be learned according to the text?",
+    "options": {
+      "A": "It cannot be learned; it is purely innate",
+      "B": "Through creative exercises and techniques",
+      "C": "By following rigid, structured processes",
+      "D": "By adhering to traditional patterns of thinking"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which part of the brain is responsible for creative thinking?",
+    "options": {
+      "A": "Left brain",
+      "B": "Right brain",
+      "C": "Frontal lobe",
+      "D": "Both hemispheres equally"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What type of reasoning does the right brain use in creative thinking?",
+    "options": {
+      "A": "Vertical reasoning",
+      "B": "Lateral reasoning",
+      "C": "Logical reasoning",
+      "D": "Abstract reasoning"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of right-brain thinking?",
+    "options": {
+      "A": "Asking ‘is there a better way?’",
+      "B": "Viewing mistakes as opportunities for learning",
+      "C": "Always following linear steps to solve problems",
+      "D": "Seeing issues from different perspectives"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What is the thinking style associated with the left brain?",
+    "options": {
+      "A": "Divergent reasoning",
+      "B": "Lateral thinking",
+      "C": "Convergent reasoning",
+      "D": "Abstract thinking"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Which type of reasoning involves generating a multitude of original, diverse ideas?",
+    "options": {
+      "A": "Lateral reasoning",
+      "B": "Convergent reasoning",
+      "C": "Divergent reasoning",
+      "D": "Logical reasoning"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What is the role of convergent reasoning in creative thinking?",
+    "options": {
+      "A": "To break down the barriers to creativity",
+      "B": "To generate multiple ideas",
+      "C": "To evaluate ideas and select the best solution",
+      "D": "To develop new products"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is a characteristic of someone using right-brain thinking?",
+    "options": {
+      "A": "Following a strict daily routine",
+      "B": "Looking at an issue from a broader perspective",
+      "C": "Focusing only on one solution",
+      "D": "Avoiding mistakes at all costs"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following helps individuals reconnect with their innate creativity?",
+    "options": {
+      "A": "Creative exercises",
+      "B": "Strict work schedules",
+      "C": "Avoiding new experiences",
+      "D": "Traditional thinking patterns"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What does successful entrepreneurship require according to the text?",
+    "options": {
+      "A": "Only left-brain thinking",
+      "B": "Only right-brain thinking",
+      "C": "A balance of both left-brain and right-brain thinking",
+      "D": "Relying"
+    },
+    "answer": "C"
+  }
+]
