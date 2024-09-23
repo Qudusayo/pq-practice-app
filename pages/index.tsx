@@ -9,7 +9,7 @@ export default function Home() {
 
   return (
     <div className={styles.Home}>
-      <h2>PRACTICE GES-107</h2>
+      <h2>PRACTICE GES-301</h2>
       {/* <div className={styles.ToggleControl}>
         <h2>Shuffle Questions: </h2>
         <Switch
@@ -38,8 +38,11 @@ export default function Home() {
         {/* <Link href={"/ges-107"} className={styles.ButtonsLink}>
           START GES 107
         </Link> */}
-        <Link href={"/ges-108"} className={styles.ButtonsLink}>
+        {/* <Link href={"/ges-108"} className={styles.ButtonsLink}>
           GES 108
+        </Link> */}
+        <Link href={"/ges-301"} className={styles.ButtonsLink}>
+          GES 301
         </Link>
       </div>
     </div>
