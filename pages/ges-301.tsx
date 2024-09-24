@@ -3,7 +3,7 @@ import { questionsInterface } from "../types/questionArrayType";
 import { ResultChart } from "../components/ResultChart/ResultChart";
 import { useEffect, useState } from "react";
 import axios from "axios";
-import Swal from "sweetalert2"; // Import SweetAlert
+
 import styles from "./../styles/Home.module.scss";
 import { useSwitchContext } from "../context/shuffleContext";
 import { shuffle } from "../functions/shuffle";
@@ -24,20 +24,6 @@ export default function Ges301({
     questionsInterface[]
   >(practiceQuestionsData);
 
-  useEffect(() => {
-    // Show SweetAlert before accessing quiz
-    Swal.fire({
-      title: "Subscribe to DevMarkson!",
-      text: "Subscribe to my YouTube channel to unlock the quiz!",
-      icon: "info",
-      confirmButtonText: "Go to YouTube",
-      allowOutsideClick: false, // Prevents users from clicking outside to dismiss
-    }).then(() => {
-      // Redirect to YouTube channel
-      window.open("https://www.youtube.com/@DevMarkson", "_blank");
-    });
-  }, []);
-
   // useEffect(() => {
   //   let seletions = selection.sort((a, b) => a - b);
   //   let questionSelections: questionsInterface[] = [];
@@ -50,7 +36,7 @@ export default function Ges301({
   //       )
   //     );
   //   }
-
+    
   //   setPracticeQuestions(shuffle(questionSelections));
   // }, [practiceQuestionsData]);
 
