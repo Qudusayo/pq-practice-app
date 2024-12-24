@@ -11,6 +11,7 @@ export default function Document() {
           rel="stylesheet"
         />
         <meta name="monetization" content="$ilp.uphold.com/h6PrkhynZhMH" />
+        <title>PQ Practice - Practice Questions for GES</title>
       </Head>
       <body>
         <Main />
